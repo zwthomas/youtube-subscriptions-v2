@@ -1,0 +1,343 @@
+1592714843131	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilem3tv09"
+1592714846838	Marionette	INFO	Listening on port 42735
+1592714846863	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 1960: TypeError: currentPanel is undefined
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 1960: TypeError: currentPanel is undefined
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 1960: TypeError: currentPanel is undefined
+1592715277795	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLtngSS"
+1592715281737	Marionette	INFO	Listening on port 36009
+1592715281824	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1592715313708	Marionette	INFO	Stopped listening on port 36009
+1592715315197	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegON80Z"
+1592715319295	Marionette	INFO	Listening on port 35043
+1592715319320	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0011,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1592715366094	Marionette	INFO	Stopped listening on port 35043
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:395:10
+
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:944:5\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new TypeError("nodeFront.walkerFront is null", "resource://devtools/client/inspector/markup/markup.js", 925))
+TypeError: nodeFront.walkerFront is null: _onNewSelection@resource://devtools/client/inspector/markup/markup.js:925:7
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+setNodeFront@resource://devtools/client/framework/selection.js:161:10
+onDetached@resource://devtools/client/inspector/inspector.js:1630:20
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:395:10
+
+console.error: (new Error("Can not send request 'getAllSelectors' because front 'domnode' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 29))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2247))
+JavaScript error: resource://devtools/client/inspector/inspector.js, line 1539: TypeError: targetFront is null
+console.error: (new Error("Protocol error (unknownError): node is null from: server0.conn0.child2/pagestyle25", "resource://devtools/shared/protocol/Front.js", 319))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:395:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:395:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:395:10
+
+1592715741394	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepegQbQ"
+1592715745171	Marionette	INFO	Listening on port 43197
+1592715745213	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1592715787990	Marionette	INFO	Stopped listening on port 43197
+1592715829478	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebk4cl8"
+1592715833242	Marionette	INFO	Listening on port 35315
+1592715833295	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1592715844791	Marionette	INFO	Stopped listening on port 35315
+console.error: (new TypeError("this.nodeHierarchy[this.currentIndex] is undefined", "resource://devtools/client/inspector/breadcrumbs.js", 800))
+console.error: (new TypeError("this.nodeHierarchy[this.currentIndex] is undefined", "resource://devtools/client/inspector/breadcrumbs.js", 800))
+1592716019714	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBu0qit"
+1592716023649	Marionette	INFO	Listening on port 43511
+1592716023731	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1592716038332	Marionette	INFO	Stopped listening on port 43511
+1592716073237	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexLccdm"
+1592716077219	Marionette	INFO	Listening on port 44693
+1592716077261	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1592716084494	Marionette	INFO	Stopped listening on port 44693
+1592716103279	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePvW7wh"
+1592716107304	Marionette	INFO	Listening on port 40227
+1592716107395	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1592716121860	Marionette	INFO	Stopped listening on port 40227
+1592716135374	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWsBVKg"
+1592716139641	Marionette	INFO	Listening on port 46189
+1592716139700	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1592716177291	Marionette	INFO	Stopped listening on port 46189
+1592716179478	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePBBcot"
+1592716183286	Marionette	INFO	Listening on port 33983
+1592716183315	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592716265193	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2Hsvde"
+1592716268960	Marionette	INFO	Listening on port 40997
+1592716269009	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1592716299646	Marionette	INFO	Stopped listening on port 40997
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0011,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1592716301729	Marionette	INFO	Stopped listening on port 33983
+1592716373939	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7MujGF"
+1592716377928	Marionette	INFO	Listening on port 39671
+1592716377961	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1592716465658	Marionette	INFO	Stopped listening on port 39671
+1592716469414	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelVk18X"
+1592716473362	Marionette	INFO	Listening on port 33081
+1592716473430	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 21109, MediaDecoderStateMachine #1] WARNING: Decoder=7f9f21eb1c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[Child 21109, MediaDecoderStateMachine #1] WARNING: Decoder=7f9f21eb1c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[Child 21109, MediaDecoderStateMachine #1] WARNING: Decoder=7f9f21eb1c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[Child 21109, MediaDecoderStateMachine #1] WARNING: Decoder=7f9f21eb1c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[Child 21109, MediaDecoderStateMachine #1] WARNING: Decoder=7f9f21eb1c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[Child 21109, MediaDecoderStateMachine #1] WARNING: Decoder=7f9f21eb1c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[Child 21109, MediaDecoderStateMachine #1] WARNING: Decoder=7f9f21eb1c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[Child 21109, MediaDecoderStateMachine #1] WARNING: Decoder=7f9f21eb1c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[Child 21109, MediaDecoderStateMachine #1] WARNING: Decoder=7f9f21eb1c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[Child 21109, MediaDecoderStateMachine #1] WARNING: Decoder=7f9f21eb1c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[Child 21109, MediaDecoderStateMachine #1] WARNING: Decoder=7f9f21eb1c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[Child 21109, MediaDecoderStateMachine #1] WARNING: Decoder=7f9f21eb1c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[Child 21109, MediaDecoderStateMachine #1] WARNING: Decoder=7f9f21eb1c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[Child 21109, MediaDecoderStateMachine #1] WARNING: Decoder=7f9f21eb1c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[Child 21109, MediaDecoderStateMachine #1] WARNING: Decoder=7f9f21eb1c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[Child 21109, MediaDecoderStateMachine #1] WARNING: Decoder=7f9f21eb1c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[Child 21109, MediaDecoderStateMachine #1] WARNING: Decoder=7f9f21eb1c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[Child 21109, MediaDecoderStateMachine #1] WARNING: Decoder=7f9f21eb1c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[Child 21109, MediaDecoderStateMachine #1] WARNING: Decoder=7f9f21eb1c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[Child 21109, MediaDecoderStateMachine #1] WARNING: Decoder=7f9f21eb1c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[Child 21109, MediaDecoderStateMachine #1] WARNING: Decoder=7f9f21eb1c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[Child 21109, MediaDecoderStateMachine #1] WARNING: Decoder=7f9f21eb1c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1592716512879	Marionette	INFO	Stopped listening on port 33081
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2247))
+1592716730763	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileatIcik"
+1592716734565	Marionette	INFO	Listening on port 35987
+1592716734588	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 21620, MediaDecoderStateMachine #1] WARNING: Decoder=7f24cc041c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[Child 21620, MediaDecoderStateMachine #1] WARNING: Decoder=7f24d33e7000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[Child 21620, MediaDecoderStateMachine #1] WARNING: Decoder=7f24d33e7000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[Child 21620, MediaDecoderStateMachine #1] WARNING: Decoder=7f24d33e7000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[Child 21620, MediaDecoderStateMachine #1] WARNING: Decoder=7f24d33e7000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[Child 21620, MediaDecoderStateMachine #1] WARNING: Decoder=7f24d33e7000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[Child 21620, MediaDecoderStateMachine #1] WARNING: Decoder=7f24d33e7000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[Child 21620, MediaDecoderStateMachine #1] WARNING: Decoder=7f24d33e7000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[Child 21620, MediaDecoderStateMachine #1] WARNING: Decoder=7f24d33e7000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[Child 21620, MediaDecoderStateMachine #1] WARNING: Decoder=7f24d33e7000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[Child 21620, MediaDecoderStateMachine #1] WARNING: Decoder=7f24d33e7000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[Child 21620, MediaDecoderStateMachine #1] WARNING: Decoder=7f24d33e7000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[Child 21620, MediaDecoderStateMachine #1] WARNING: Decoder=7f24d33e7000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[Child 21620, MediaDecoderStateMachine #1] WARNING: Decoder=7f24d33e7000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[Child 21620, MediaDecoderStateMachine #1] WARNING: Decoder=7f24d33e7000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[Child 21620, MediaDecoderStateMachine #1] WARNING: Decoder=7f24d33e7000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[Child 21620, MediaDecoderStateMachine #1] WARNING: Decoder=7f24d33e7000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[Child 21620, MediaDecoderStateMachine #1] WARNING: Decoder=7f24d33e7000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[Child 21620, MediaDecoderStateMachine #1] WARNING: Decoder=7f24d33e7000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[Child 21620, MediaDecoderStateMachine #1] WARNING: Decoder=7f24d33e7000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[Child 21620, MediaDecoderStateMachine #1] WARNING: Decoder=7f24d33e7000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[Child 21620, MediaDecoderStateMachine #1] WARNING: Decoder=7f24d33e7000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[Child 21620, MediaDecoderStateMachine #1] WARNING: Decoder=7f24d33e7000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+1592716773827	Marionette	INFO	Stopped listening on port 35987
+1592716856764	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiles1tf5Q"
+1592716860528	Marionette	INFO	Listening on port 44281
+1592716860578	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1592716878841	Marionette	INFO	Stopped listening on port 44281
+1592716892237	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile47MMAf"
+1592716896155	Marionette	INFO	Listening on port 44435
+1592716896258	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 22455, MediaDecoderStateMachine #1] WARNING: Decoder=7ff261ed8c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+JavaScript warning: https://www.youtube.com/yts/jsbin/desktop_polymer_inlined_html_polymer_flags-vflVOw50g/desktop_polymer_inlined_html_polymer_flags.js, line 7528: Script terminated by timeout at:
+hJ</a.prototype._propertiesChanged@https://www.youtube.com/yts/jsbin/desktop_polymer_inlined_html_polymer_flags-vflVOw50g/desktop_polymer_inlined_html_polymer_flags.js:7528:208
+EI</b.prototype._flushProperties@https://www.youtube.com/yts/jsbin/desktop_polymer_inlined_html_polymer_flags-vflVOw50g/desktop_polymer_inlined_html_polymer_flags.js:7402:200
+hJ</a.prototype._invalidateProperties@https://www.youtube.com/yts/jsbin/desktop_polymer_inlined_html_polymer_flags-vflVOw50g/desktop_polymer_inlined_html_polymer_flags.js:7520:69
+hJ</a.prototype._setProperty@https://www.youtube.com/yts/jsbin/desktop_polymer_inlined_html_polymer_flags-vflVOw50g/desktop_polymer_inlined_html_polymer_flags.js:7519:79
+@https://www.youtube.com/yts/jsbin/desktop_polymer_inlined_html_polymer_flags-vflVOw50g/desktop_polymer_inlined_html_polymer_flags.js:7544:161
+_focusBlurHandler@https://www.youtube.com/yts/jsbin/desktop_polymer_inlined_html_polymer_flags-vflVOw50g/desktop_polymer_inlined_html_polymer_flags.js:8231:36
+
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable

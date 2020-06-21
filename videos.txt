@@ -1,0 +1,1503 @@
+<ytd-thumbnail use-hovered-property="" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=coBpIkNAfzI">
+      <yt-img-shadow ftl-eligible="" class="style-scope ytd-thumbnail no-transition" style="background-color: transparent;" loaded=""><!--css-build:shady--><img id="img" class="style-scope yt-img-shadow" alt="" src="https://i.ytimg.com/vi/coBpIkNAfzI/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLAGZKrQhnooOI2sjzZTlh4TyjmzGA" width="210"></yt-img-shadow>
+      
+      <div id="overlays" class="style-scope ytd-thumbnail"></div>
+      <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+      <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
+    </a>
+  </ytd-thumbnail><div id="details" class="style-scope ytd-grid-video-renderer"><div id="meta" class="style-scope ytd-grid-video-renderer"><h3 class="style-scope ytd-grid-video-renderer"><ytd-badge-supported-renderer class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><a id="video-title" class="yt-simple-endpoint style-scope ytd-grid-video-renderer" aria-label="How to Extend Wi-Fi Range on the CHEAP by Techquickie 4 months ago 5 minutes, 11 seconds 451,654 views" title="How to Extend Wi-Fi Range on the CHEAP" href="/watch?v=coBpIkNAfzI">How to Extend Wi-Fi Range on the CHEAP</a></h3><div id="metadata-container" class="grid style-scope ytd-grid-video-renderer" meta-block=""><div id="metadata" class="style-scope ytd-grid-video-renderer"><div id="byline-container" class="style-scope ytd-grid-video-renderer"><ytd-channel-name id="channel-name" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    <div id="container" class="style-scope ytd-channel-name">
+      <div id="text-container" class="style-scope ytd-channel-name">
+        <yt-formatted-string id="text" title="" class="style-scope ytd-channel-name complex-string" ellipsis-truncate="" has-link-only_=""><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/user/Techquickie" dir="auto">Techquickie</a></yt-formatted-string>
+      </div>
+      <paper-tooltip fit-to-visible-bounds="" offset="10" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady-->
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+        Techquickie
+      
+    </div>
+</paper-tooltip>
+    </div>
+    <ytd-badge-supported-renderer class="style-scope ytd-channel-name"><!--css-build:shady-->
+    
+    
+      <div class="badge badge-style-type-verified style-scope ytd-badge-supported-renderer">
+        <yt-icon class="style-scope ytd-badge-supported-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" style="pointer-events: none; display: block; width: 100%; height: 100%;" class="style-scope yt-icon"><g class="style-scope yt-icon">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10 S17.52,2,12,2z M9.92,17.93l-4.95-4.95l2.05-2.05l2.9,2.9l7.35-7.35l2.05,2.05L9.92,17.93z" class="style-scope yt-icon"></path>
+      </g></svg><!--css-build:shady-->
+    
+    
+  </yt-icon>
+        <span class="style-scope ytd-badge-supported-renderer"></span>
+      </div>
+    <dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat>
+  </ytd-badge-supported-renderer>
+  </ytd-channel-name></div><div id="metadata-line" class="style-scope ytd-grid-video-renderer">
+                  <span class="style-scope ytd-grid-video-renderer">451K views</span>
+                
+                  <span class="style-scope ytd-grid-video-renderer">4 months ago</span>
+                <dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div><div id="additional-metadata-line" class="style-scope ytd-grid-video-renderer"><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div></div><ytd-badge-supported-renderer id="video-badges" class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><div id="menu" class="style-scope ytd-grid-video-renderer"></div></div><div id="buttons" class="style-scope ytd-grid-video-renderer"></div>
+
+
+<div id="dismissed-content" class="style-scope ytd-grid-video-renderer"></div>
+
+
+<ytd-thumbnail use-hovered-property="" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=Sj1auKJeSlw">
+      <yt-img-shadow ftl-eligible="" class="style-scope ytd-thumbnail no-transition" style="background-color: transparent;" loaded=""><!--css-build:shady--><img id="img" class="style-scope yt-img-shadow" alt="" src="https://i.ytimg.com/vi/Sj1auKJeSlw/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLCPSgT1AFWSp5QDwbkqJGJesO7UMg" width="210"></yt-img-shadow>
+      
+      <div id="overlays" class="style-scope ytd-thumbnail"></div>
+      <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+      <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
+    </a>
+  </ytd-thumbnail><div id="details" class="style-scope ytd-grid-video-renderer"><div id="meta" class="style-scope ytd-grid-video-renderer"><h3 class="style-scope ytd-grid-video-renderer"><ytd-badge-supported-renderer class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><a id="video-title" class="yt-simple-endpoint style-scope ytd-grid-video-renderer" aria-label="The MYSTERY Chinese CPU Explained by Techquickie 4 months ago 4 minutes, 30 seconds 703,461 views" title="The MYSTERY Chinese CPU Explained" href="/watch?v=Sj1auKJeSlw">The MYSTERY Chinese CPU Explained</a></h3><div id="metadata-container" class="grid style-scope ytd-grid-video-renderer" meta-block=""><div id="metadata" class="style-scope ytd-grid-video-renderer"><div id="byline-container" class="style-scope ytd-grid-video-renderer"><ytd-channel-name id="channel-name" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    <div id="container" class="style-scope ytd-channel-name">
+      <div id="text-container" class="style-scope ytd-channel-name">
+        <yt-formatted-string id="text" title="" class="style-scope ytd-channel-name complex-string" ellipsis-truncate="" has-link-only_=""><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/user/Techquickie" dir="auto">Techquickie</a></yt-formatted-string>
+      </div>
+      <paper-tooltip fit-to-visible-bounds="" offset="10" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady-->
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+        Techquickie
+      
+    </div>
+</paper-tooltip>
+    </div>
+    <ytd-badge-supported-renderer class="style-scope ytd-channel-name"><!--css-build:shady-->
+    
+    
+      <div class="badge badge-style-type-verified style-scope ytd-badge-supported-renderer">
+        <yt-icon class="style-scope ytd-badge-supported-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" style="pointer-events: none; display: block; width: 100%; height: 100%;" class="style-scope yt-icon"><g class="style-scope yt-icon">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10 S17.52,2,12,2z M9.92,17.93l-4.95-4.95l2.05-2.05l2.9,2.9l7.35-7.35l2.05,2.05L9.92,17.93z" class="style-scope yt-icon"></path>
+      </g></svg><!--css-build:shady-->
+    
+    
+  </yt-icon>
+        <span class="style-scope ytd-badge-supported-renderer"></span>
+      </div>
+    <dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat>
+  </ytd-badge-supported-renderer>
+  </ytd-channel-name></div><div id="metadata-line" class="style-scope ytd-grid-video-renderer">
+                  <span class="style-scope ytd-grid-video-renderer">703K views</span>
+                
+                  <span class="style-scope ytd-grid-video-renderer">4 months ago</span>
+                <dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div><div id="additional-metadata-line" class="style-scope ytd-grid-video-renderer"><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div></div><ytd-badge-supported-renderer id="video-badges" class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><div id="menu" class="style-scope ytd-grid-video-renderer"></div></div><div id="buttons" class="style-scope ytd-grid-video-renderer"></div>
+
+
+<div id="dismissed-content" class="style-scope ytd-grid-video-renderer"></div>
+
+
+<ytd-thumbnail use-hovered-property="" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=m_J0O7VD45w">
+      <yt-img-shadow ftl-eligible="" class="style-scope ytd-thumbnail no-transition" style="background-color: transparent;" loaded=""><!--css-build:shady--><img id="img" class="style-scope yt-img-shadow" alt="" src="https://i.ytimg.com/vi/m_J0O7VD45w/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLC7zwLMm3ZS-tA6parRWuFQ3qPClg" width="210"></yt-img-shadow>
+      
+      <div id="overlays" class="style-scope ytd-thumbnail"></div>
+      <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+      <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
+    </a>
+  </ytd-thumbnail><div id="details" class="style-scope ytd-grid-video-renderer"><div id="meta" class="style-scope ytd-grid-video-renderer"><h3 class="style-scope ytd-grid-video-renderer"><ytd-badge-supported-renderer class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><a id="video-title" class="yt-simple-endpoint style-scope ytd-grid-video-renderer" aria-label="Why will WiFi always be SLOW?? by Techquickie 4 months ago 4 minutes, 49 seconds 433,032 views" title="Why will WiFi always be SLOW??" href="/watch?v=m_J0O7VD45w">Why will WiFi always be SLOW??</a></h3><div id="metadata-container" class="grid style-scope ytd-grid-video-renderer" meta-block=""><div id="metadata" class="style-scope ytd-grid-video-renderer"><div id="byline-container" class="style-scope ytd-grid-video-renderer"><ytd-channel-name id="channel-name" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    <div id="container" class="style-scope ytd-channel-name">
+      <div id="text-container" class="style-scope ytd-channel-name">
+        <yt-formatted-string id="text" title="" class="style-scope ytd-channel-name complex-string" ellipsis-truncate="" has-link-only_=""><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/user/Techquickie" dir="auto">Techquickie</a></yt-formatted-string>
+      </div>
+      <paper-tooltip fit-to-visible-bounds="" offset="10" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady-->
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+        Techquickie
+      
+    </div>
+</paper-tooltip>
+    </div>
+    <ytd-badge-supported-renderer class="style-scope ytd-channel-name"><!--css-build:shady-->
+    
+    
+      <div class="badge badge-style-type-verified style-scope ytd-badge-supported-renderer">
+        <yt-icon class="style-scope ytd-badge-supported-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" style="pointer-events: none; display: block; width: 100%; height: 100%;" class="style-scope yt-icon"><g class="style-scope yt-icon">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10 S17.52,2,12,2z M9.92,17.93l-4.95-4.95l2.05-2.05l2.9,2.9l7.35-7.35l2.05,2.05L9.92,17.93z" class="style-scope yt-icon"></path>
+      </g></svg><!--css-build:shady-->
+    
+    
+  </yt-icon>
+        <span class="style-scope ytd-badge-supported-renderer"></span>
+      </div>
+    <dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat>
+  </ytd-badge-supported-renderer>
+  </ytd-channel-name></div><div id="metadata-line" class="style-scope ytd-grid-video-renderer">
+                  <span class="style-scope ytd-grid-video-renderer">433K views</span>
+                
+                  <span class="style-scope ytd-grid-video-renderer">4 months ago</span>
+                <dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div><div id="additional-metadata-line" class="style-scope ytd-grid-video-renderer"><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div></div><ytd-badge-supported-renderer id="video-badges" class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><div id="menu" class="style-scope ytd-grid-video-renderer"></div></div><div id="buttons" class="style-scope ytd-grid-video-renderer"></div>
+
+
+<div id="dismissed-content" class="style-scope ytd-grid-video-renderer"></div>
+
+
+<ytd-thumbnail use-hovered-property="" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=7QDWTMlSbzM">
+      <yt-img-shadow ftl-eligible="" class="style-scope ytd-thumbnail no-transition" style="background-color: transparent;" loaded=""><!--css-build:shady--><img id="img" class="style-scope yt-img-shadow" alt="" src="https://i.ytimg.com/vi/7QDWTMlSbzM/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLBlmN6pGxbM7URt3CP5Z7gOwcrblQ" width="210"></yt-img-shadow>
+      
+      <div id="overlays" class="style-scope ytd-thumbnail"></div>
+      <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+      <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
+    </a>
+  </ytd-thumbnail><div id="details" class="style-scope ytd-grid-video-renderer"><div id="meta" class="style-scope ytd-grid-video-renderer"><h3 class="style-scope ytd-grid-video-renderer"><ytd-badge-supported-renderer class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><a id="video-title" class="yt-simple-endpoint style-scope ytd-grid-video-renderer" aria-label="Why Is SMS Texting Still Popular? by Techquickie 5 months ago 4 minutes, 1 second 340,392 views" title="Why Is SMS Texting Still Popular?" href="/watch?v=7QDWTMlSbzM">Why Is SMS Texting Still Popular?</a></h3><div id="metadata-container" class="grid style-scope ytd-grid-video-renderer" meta-block=""><div id="metadata" class="style-scope ytd-grid-video-renderer"><div id="byline-container" class="style-scope ytd-grid-video-renderer"><ytd-channel-name id="channel-name" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    <div id="container" class="style-scope ytd-channel-name">
+      <div id="text-container" class="style-scope ytd-channel-name">
+        <yt-formatted-string id="text" title="" class="style-scope ytd-channel-name complex-string" ellipsis-truncate="" has-link-only_=""><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/user/Techquickie" dir="auto">Techquickie</a></yt-formatted-string>
+      </div>
+      <paper-tooltip fit-to-visible-bounds="" offset="10" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady-->
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+        Techquickie
+      
+    </div>
+</paper-tooltip>
+    </div>
+    <ytd-badge-supported-renderer class="style-scope ytd-channel-name"><!--css-build:shady-->
+    
+    
+      <div class="badge badge-style-type-verified style-scope ytd-badge-supported-renderer">
+        <yt-icon class="style-scope ytd-badge-supported-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" style="pointer-events: none; display: block; width: 100%; height: 100%;" class="style-scope yt-icon"><g class="style-scope yt-icon">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10 S17.52,2,12,2z M9.92,17.93l-4.95-4.95l2.05-2.05l2.9,2.9l7.35-7.35l2.05,2.05L9.92,17.93z" class="style-scope yt-icon"></path>
+      </g></svg><!--css-build:shady-->
+    
+    
+  </yt-icon>
+        <span class="style-scope ytd-badge-supported-renderer"></span>
+      </div>
+    <dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat>
+  </ytd-badge-supported-renderer>
+  </ytd-channel-name></div><div id="metadata-line" class="style-scope ytd-grid-video-renderer">
+                  <span class="style-scope ytd-grid-video-renderer">340K views</span>
+                
+                  <span class="style-scope ytd-grid-video-renderer">5 months ago</span>
+                <dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div><div id="additional-metadata-line" class="style-scope ytd-grid-video-renderer"><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div></div><ytd-badge-supported-renderer id="video-badges" class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><div id="menu" class="style-scope ytd-grid-video-renderer"></div></div><div id="buttons" class="style-scope ytd-grid-video-renderer"></div>
+
+
+<div id="dismissed-content" class="style-scope ytd-grid-video-renderer"></div>
+
+
+<ytd-thumbnail use-hovered-property="" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=mmuAmXRk9lA">
+      <yt-img-shadow ftl-eligible="" class="style-scope ytd-thumbnail no-transition" style="background-color: transparent;" loaded=""><!--css-build:shady--><img id="img" class="style-scope yt-img-shadow" alt="" src="https://i.ytimg.com/vi/mmuAmXRk9lA/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLC-LxJEuBiFCv4RVHEXUUCfi2fOyw" width="210"></yt-img-shadow>
+      
+      <div id="overlays" class="style-scope ytd-thumbnail"></div>
+      <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+      <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
+    </a>
+  </ytd-thumbnail><div id="details" class="style-scope ytd-grid-video-renderer"><div id="meta" class="style-scope ytd-grid-video-renderer"><h3 class="style-scope ytd-grid-video-renderer"><ytd-badge-supported-renderer class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><a id="video-title" class="yt-simple-endpoint style-scope ytd-grid-video-renderer" aria-label="Why Can't You Install Windows on an Xbox? by Techquickie 5 months ago 4 minutes, 57 seconds 1,270,669 views" title="Why Can't You Install Windows on an Xbox?" href="/watch?v=mmuAmXRk9lA">Why Can't You Install Windows on an Xbox?</a></h3><div id="metadata-container" class="grid style-scope ytd-grid-video-renderer" meta-block=""><div id="metadata" class="style-scope ytd-grid-video-renderer"><div id="byline-container" class="style-scope ytd-grid-video-renderer"><ytd-channel-name id="channel-name" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    <div id="container" class="style-scope ytd-channel-name">
+      <div id="text-container" class="style-scope ytd-channel-name">
+        <yt-formatted-string id="text" title="" class="style-scope ytd-channel-name complex-string" ellipsis-truncate="" has-link-only_=""><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/user/Techquickie" dir="auto">Techquickie</a></yt-formatted-string>
+      </div>
+      <paper-tooltip fit-to-visible-bounds="" offset="10" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady-->
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+        Techquickie
+      
+    </div>
+</paper-tooltip>
+    </div>
+    <ytd-badge-supported-renderer class="style-scope ytd-channel-name"><!--css-build:shady-->
+    
+    
+      <div class="badge badge-style-type-verified style-scope ytd-badge-supported-renderer">
+        <yt-icon class="style-scope ytd-badge-supported-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" style="pointer-events: none; display: block; width: 100%; height: 100%;" class="style-scope yt-icon"><g class="style-scope yt-icon">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10 S17.52,2,12,2z M9.92,17.93l-4.95-4.95l2.05-2.05l2.9,2.9l7.35-7.35l2.05,2.05L9.92,17.93z" class="style-scope yt-icon"></path>
+      </g></svg><!--css-build:shady-->
+    
+    
+  </yt-icon>
+        <span class="style-scope ytd-badge-supported-renderer"></span>
+      </div>
+    <dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat>
+  </ytd-badge-supported-renderer>
+  </ytd-channel-name></div><div id="metadata-line" class="style-scope ytd-grid-video-renderer">
+                  <span class="style-scope ytd-grid-video-renderer">1.2M views</span>
+                
+                  <span class="style-scope ytd-grid-video-renderer">5 months ago</span>
+                <dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div><div id="additional-metadata-line" class="style-scope ytd-grid-video-renderer"><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div></div><ytd-badge-supported-renderer id="video-badges" class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><div id="menu" class="style-scope ytd-grid-video-renderer"></div></div><div id="buttons" class="style-scope ytd-grid-video-renderer"></div>
+
+
+<div id="dismissed-content" class="style-scope ytd-grid-video-renderer"></div>
+
+
+<ytd-thumbnail use-hovered-property="" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=3YfZcNUhBKY">
+      <yt-img-shadow ftl-eligible="" class="style-scope ytd-thumbnail no-transition" style="background-color: transparent;" loaded=""><!--css-build:shady--><img id="img" class="style-scope yt-img-shadow" alt="" src="https://i.ytimg.com/vi/3YfZcNUhBKY/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLAZyBN7HpymeZP8MbFQGxyLXNSFaA" width="210"></yt-img-shadow>
+      
+      <div id="overlays" class="style-scope ytd-thumbnail"></div>
+      <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+      <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
+    </a>
+  </ytd-thumbnail><div id="details" class="style-scope ytd-grid-video-renderer"><div id="meta" class="style-scope ytd-grid-video-renderer"><h3 class="style-scope ytd-grid-video-renderer"><ytd-badge-supported-renderer class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><a id="video-title" class="yt-simple-endpoint style-scope ytd-grid-video-renderer" aria-label="What Makes ALL Your Electronics Work - Firmware Explained by Techquickie 5 months ago 6 minutes, 6 seconds 531,133 views" title="What Makes ALL Your Electronics Work - Firmware Explained" href="/watch?v=3YfZcNUhBKY">What Makes ALL Your Electronics Work - Firmware Explained</a></h3><div id="metadata-container" class="grid style-scope ytd-grid-video-renderer" meta-block=""><div id="metadata" class="style-scope ytd-grid-video-renderer"><div id="byline-container" class="style-scope ytd-grid-video-renderer"><ytd-channel-name id="channel-name" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    <div id="container" class="style-scope ytd-channel-name">
+      <div id="text-container" class="style-scope ytd-channel-name">
+        <yt-formatted-string id="text" title="" class="style-scope ytd-channel-name complex-string" ellipsis-truncate="" has-link-only_=""><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/user/Techquickie" dir="auto">Techquickie</a></yt-formatted-string>
+      </div>
+      <paper-tooltip fit-to-visible-bounds="" offset="10" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady-->
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+        Techquickie
+      
+    </div>
+</paper-tooltip>
+    </div>
+    <ytd-badge-supported-renderer class="style-scope ytd-channel-name"><!--css-build:shady-->
+    
+    
+      <div class="badge badge-style-type-verified style-scope ytd-badge-supported-renderer">
+        <yt-icon class="style-scope ytd-badge-supported-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" style="pointer-events: none; display: block; width: 100%; height: 100%;" class="style-scope yt-icon"><g class="style-scope yt-icon">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10 S17.52,2,12,2z M9.92,17.93l-4.95-4.95l2.05-2.05l2.9,2.9l7.35-7.35l2.05,2.05L9.92,17.93z" class="style-scope yt-icon"></path>
+      </g></svg><!--css-build:shady-->
+    
+    
+  </yt-icon>
+        <span class="style-scope ytd-badge-supported-renderer"></span>
+      </div>
+    <dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat>
+  </ytd-badge-supported-renderer>
+  </ytd-channel-name></div><div id="metadata-line" class="style-scope ytd-grid-video-renderer">
+                  <span class="style-scope ytd-grid-video-renderer">531K views</span>
+                
+                  <span class="style-scope ytd-grid-video-renderer">5 months ago</span>
+                <dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div><div id="additional-metadata-line" class="style-scope ytd-grid-video-renderer"><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div></div><ytd-badge-supported-renderer id="video-badges" class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><div id="menu" class="style-scope ytd-grid-video-renderer"></div></div><div id="buttons" class="style-scope ytd-grid-video-renderer"></div>
+
+
+<div id="dismissed-content" class="style-scope ytd-grid-video-renderer"></div>
+
+
+<ytd-thumbnail use-hovered-property="" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=5yuqcfp1xxI">
+      <yt-img-shadow ftl-eligible="" class="style-scope ytd-thumbnail no-transition" style="background-color: transparent;" loaded=""><!--css-build:shady--><img id="img" class="style-scope yt-img-shadow" alt="" src="https://i.ytimg.com/vi/5yuqcfp1xxI/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLD4sdmN24F9U2A4VmCPlHhCr7xfOA" width="210"></yt-img-shadow>
+      
+      <div id="overlays" class="style-scope ytd-thumbnail"></div>
+      <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+      <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
+    </a>
+  </ytd-thumbnail><div id="details" class="style-scope ytd-grid-video-renderer"><div id="meta" class="style-scope ytd-grid-video-renderer"><h3 class="style-scope ytd-grid-video-renderer"><ytd-badge-supported-renderer class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><a id="video-title" class="yt-simple-endpoint style-scope ytd-grid-video-renderer" aria-label="Why is EVERYONE Buying this TV?? by Linus Tech Tips 10 hours ago 9 minutes, 10 seconds 698,777 views" title="Why is EVERYONE Buying this TV??" href="/watch?v=5yuqcfp1xxI">Why is EVERYONE Buying this TV??</a></h3><div id="metadata-container" class="grid style-scope ytd-grid-video-renderer" meta-block=""><div id="metadata" class="style-scope ytd-grid-video-renderer"><div id="byline-container" class="style-scope ytd-grid-video-renderer" hidden=""><ytd-channel-name id="channel-name" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    <div id="container" class="style-scope ytd-channel-name">
+      <div id="text-container" class="style-scope ytd-channel-name">
+        <yt-formatted-string id="text" title="" class="style-scope ytd-channel-name" ellipsis-truncate=""></yt-formatted-string>
+      </div>
+      <paper-tooltip fit-to-visible-bounds="" offset="10" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady-->
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+        
+      
+    </div>
+</paper-tooltip>
+    </div>
+    <ytd-badge-supported-renderer class="style-scope ytd-channel-name"><!--css-build:shady-->
+    
+    
+      <div class="badge badge-style-type-verified style-scope ytd-badge-supported-renderer">
+        <yt-icon class="style-scope ytd-badge-supported-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" style="pointer-events: none; display: block; width: 100%; height: 100%;" class="style-scope yt-icon"><g class="style-scope yt-icon">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10 S17.52,2,12,2z M9.92,17.93l-4.95-4.95l2.05-2.05l2.9,2.9l7.35-7.35l2.05,2.05L9.92,17.93z" class="style-scope yt-icon"></path>
+      </g></svg><!--css-build:shady-->
+    
+    
+  </yt-icon>
+        <span class="style-scope ytd-badge-supported-renderer"></span>
+      </div>
+    <dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat>
+  </ytd-badge-supported-renderer>
+  </ytd-channel-name></div><div id="metadata-line" class="style-scope ytd-grid-video-renderer">
+                  <span class="style-scope ytd-grid-video-renderer">698K views</span>
+                
+                  <span class="style-scope ytd-grid-video-renderer">10 hours ago</span>
+                <dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div><div id="additional-metadata-line" class="style-scope ytd-grid-video-renderer"><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div></div><ytd-badge-supported-renderer id="video-badges" class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><div id="menu" class="style-scope ytd-grid-video-renderer"></div></div><div id="buttons" class="style-scope ytd-grid-video-renderer"></div>
+
+
+<div id="dismissed-content" class="style-scope ytd-grid-video-renderer"></div>
+
+
+<ytd-thumbnail use-hovered-property="" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=u5DFBiy1V_I">
+      <yt-img-shadow ftl-eligible="" class="style-scope ytd-thumbnail no-transition" style="background-color: transparent;" loaded=""><!--css-build:shady--><img id="img" class="style-scope yt-img-shadow" alt="" src="https://i.ytimg.com/vi/u5DFBiy1V_I/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLDx-V1c6HPLQsl_g66RJjMoM9pGvw" width="210"></yt-img-shadow>
+      
+      <div id="overlays" class="style-scope ytd-thumbnail"></div>
+      <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+      <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
+    </a>
+  </ytd-thumbnail><div id="details" class="style-scope ytd-grid-video-renderer"><div id="meta" class="style-scope ytd-grid-video-renderer"><h3 class="style-scope ytd-grid-video-renderer"><ytd-badge-supported-renderer class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><a id="video-title" class="yt-simple-endpoint style-scope ytd-grid-video-renderer" aria-label="New Graphics Cards to Rain on PS5 Parade - WAN Show June 19, 2020 by Linus Tech Tips Streamed 1 day ago 1 hour, 15 minutes 340,132 views" title="New Graphics Cards to Rain on PS5 Parade - WAN Show June 19, 2020" href="/watch?v=u5DFBiy1V_I">New Graphics Cards to Rain on PS5 Parade - WAN Show June 19, 2020</a></h3><div id="metadata-container" class="grid style-scope ytd-grid-video-renderer" meta-block=""><div id="metadata" class="style-scope ytd-grid-video-renderer"><div id="byline-container" class="style-scope ytd-grid-video-renderer" hidden=""><ytd-channel-name id="channel-name" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    <div id="container" class="style-scope ytd-channel-name">
+      <div id="text-container" class="style-scope ytd-channel-name">
+        <yt-formatted-string id="text" title="" class="style-scope ytd-channel-name" ellipsis-truncate=""></yt-formatted-string>
+      </div>
+      <paper-tooltip fit-to-visible-bounds="" offset="10" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady-->
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+        
+      
+    </div>
+</paper-tooltip>
+    </div>
+    <ytd-badge-supported-renderer class="style-scope ytd-channel-name"><!--css-build:shady-->
+    
+    
+      <div class="badge badge-style-type-verified style-scope ytd-badge-supported-renderer">
+        <yt-icon class="style-scope ytd-badge-supported-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" style="pointer-events: none; display: block; width: 100%; height: 100%;" class="style-scope yt-icon"><g class="style-scope yt-icon">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10 S17.52,2,12,2z M9.92,17.93l-4.95-4.95l2.05-2.05l2.9,2.9l7.35-7.35l2.05,2.05L9.92,17.93z" class="style-scope yt-icon"></path>
+      </g></svg><!--css-build:shady-->
+    
+    
+  </yt-icon>
+        <span class="style-scope ytd-badge-supported-renderer"></span>
+      </div>
+    <dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat>
+  </ytd-badge-supported-renderer>
+  </ytd-channel-name></div><div id="metadata-line" class="style-scope ytd-grid-video-renderer">
+                  <span class="style-scope ytd-grid-video-renderer">340K views</span>
+                
+                  <span class="style-scope ytd-grid-video-renderer">Streamed 1 day ago</span>
+                <dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div><div id="additional-metadata-line" class="style-scope ytd-grid-video-renderer"><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div></div><ytd-badge-supported-renderer id="video-badges" class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><div id="menu" class="style-scope ytd-grid-video-renderer"></div></div><div id="buttons" class="style-scope ytd-grid-video-renderer"></div>
+
+
+<div id="dismissed-content" class="style-scope ytd-grid-video-renderer"></div>
+
+
+<ytd-thumbnail use-hovered-property="" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=7MgWlSHebcY">
+      <yt-img-shadow ftl-eligible="" class="style-scope ytd-thumbnail no-transition" style="background-color: transparent;" loaded=""><!--css-build:shady--><img id="img" class="style-scope yt-img-shadow" alt="" src="https://i.ytimg.com/vi/7MgWlSHebcY/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLCbYEt1blwGMpx9XsjNTrwnIeAAjQ" width="210"></yt-img-shadow>
+      
+      <div id="overlays" class="style-scope ytd-thumbnail"></div>
+      <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+      <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
+    </a>
+  </ytd-thumbnail><div id="details" class="style-scope ytd-grid-video-renderer"><div id="meta" class="style-scope ytd-grid-video-renderer"><h3 class="style-scope ytd-grid-video-renderer"><ytd-badge-supported-renderer class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><a id="video-title" class="yt-simple-endpoint style-scope ytd-grid-video-renderer" aria-label="Next Gen ULTIMATE Desk PC Design! by Linus Tech Tips 2 days ago 8 minutes, 54 seconds 1,379,462 views" title="Next Gen ULTIMATE Desk PC Design!" href="/watch?v=7MgWlSHebcY">Next Gen ULTIMATE Desk PC Design!</a></h3><div id="metadata-container" class="grid style-scope ytd-grid-video-renderer" meta-block=""><div id="metadata" class="style-scope ytd-grid-video-renderer"><div id="byline-container" class="style-scope ytd-grid-video-renderer" hidden=""><ytd-channel-name id="channel-name" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    <div id="container" class="style-scope ytd-channel-name">
+      <div id="text-container" class="style-scope ytd-channel-name">
+        <yt-formatted-string id="text" title="" class="style-scope ytd-channel-name" ellipsis-truncate=""></yt-formatted-string>
+      </div>
+      <paper-tooltip fit-to-visible-bounds="" offset="10" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady-->
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+        
+      
+    </div>
+</paper-tooltip>
+    </div>
+    <ytd-badge-supported-renderer class="style-scope ytd-channel-name"><!--css-build:shady-->
+    
+    
+      <div class="badge badge-style-type-verified style-scope ytd-badge-supported-renderer">
+        <yt-icon class="style-scope ytd-badge-supported-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" style="pointer-events: none; display: block; width: 100%; height: 100%;" class="style-scope yt-icon"><g class="style-scope yt-icon">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10 S17.52,2,12,2z M9.92,17.93l-4.95-4.95l2.05-2.05l2.9,2.9l7.35-7.35l2.05,2.05L9.92,17.93z" class="style-scope yt-icon"></path>
+      </g></svg><!--css-build:shady-->
+    
+    
+  </yt-icon>
+        <span class="style-scope ytd-badge-supported-renderer"></span>
+      </div>
+    <dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat>
+  </ytd-badge-supported-renderer>
+  </ytd-channel-name></div><div id="metadata-line" class="style-scope ytd-grid-video-renderer">
+                  <span class="style-scope ytd-grid-video-renderer">1.3M views</span>
+                
+                  <span class="style-scope ytd-grid-video-renderer">2 days ago</span>
+                <dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div><div id="additional-metadata-line" class="style-scope ytd-grid-video-renderer"><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div></div><ytd-badge-supported-renderer id="video-badges" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    
+      <div class="badge badge-style-type-simple style-scope ytd-badge-supported-renderer">
+        <yt-icon class="style-scope ytd-badge-supported-renderer" disable-upgrade="" hidden="">
+        </yt-icon>
+        <span class="style-scope ytd-badge-supported-renderer">CC</span>
+      </div>
+    <dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat>
+  </ytd-badge-supported-renderer><div id="menu" class="style-scope ytd-grid-video-renderer"></div></div><div id="buttons" class="style-scope ytd-grid-video-renderer"></div>
+
+
+<div id="dismissed-content" class="style-scope ytd-grid-video-renderer"></div>
+
+
+<ytd-thumbnail use-hovered-property="" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=6T_-HMkgxt0">
+      <yt-img-shadow ftl-eligible="" class="style-scope ytd-thumbnail no-transition" style="background-color: transparent;" loaded=""><!--css-build:shady--><img id="img" class="style-scope yt-img-shadow" alt="" src="https://i.ytimg.com/vi/6T_-HMkgxt0/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLAiPvDqWMJfipeCUodNj8RZA1iCKg" width="210"></yt-img-shadow>
+      
+      <div id="overlays" class="style-scope ytd-thumbnail"></div>
+      <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+      <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
+    </a>
+  </ytd-thumbnail><div id="details" class="style-scope ytd-grid-video-renderer"><div id="meta" class="style-scope ytd-grid-video-renderer"><h3 class="style-scope ytd-grid-video-renderer"><ytd-badge-supported-renderer class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><a id="video-title" class="yt-simple-endpoint style-scope ytd-grid-video-renderer" aria-label="Linux gaming is BETTER than windows? by Linus Tech Tips 3 days ago 11 minutes, 26 seconds 1,385,546 views" title="Linux gaming is BETTER than windows?" href="/watch?v=6T_-HMkgxt0">Linux gaming is BETTER than windows?</a></h3><div id="metadata-container" class="grid style-scope ytd-grid-video-renderer" meta-block=""><div id="metadata" class="style-scope ytd-grid-video-renderer"><div id="byline-container" class="style-scope ytd-grid-video-renderer" hidden=""><ytd-channel-name id="channel-name" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    <div id="container" class="style-scope ytd-channel-name">
+      <div id="text-container" class="style-scope ytd-channel-name">
+        <yt-formatted-string id="text" title="" class="style-scope ytd-channel-name" ellipsis-truncate=""></yt-formatted-string>
+      </div>
+      <paper-tooltip fit-to-visible-bounds="" offset="10" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady-->
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+        
+      
+    </div>
+</paper-tooltip>
+    </div>
+    <ytd-badge-supported-renderer class="style-scope ytd-channel-name"><!--css-build:shady-->
+    
+    
+      <div class="badge badge-style-type-verified style-scope ytd-badge-supported-renderer">
+        <yt-icon class="style-scope ytd-badge-supported-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" style="pointer-events: none; display: block; width: 100%; height: 100%;" class="style-scope yt-icon"><g class="style-scope yt-icon">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10 S17.52,2,12,2z M9.92,17.93l-4.95-4.95l2.05-2.05l2.9,2.9l7.35-7.35l2.05,2.05L9.92,17.93z" class="style-scope yt-icon"></path>
+      </g></svg><!--css-build:shady-->
+    
+    
+  </yt-icon>
+        <span class="style-scope ytd-badge-supported-renderer"></span>
+      </div>
+    <dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat>
+  </ytd-badge-supported-renderer>
+  </ytd-channel-name></div><div id="metadata-line" class="style-scope ytd-grid-video-renderer">
+                  <span class="style-scope ytd-grid-video-renderer">1.3M views</span>
+                
+                  <span class="style-scope ytd-grid-video-renderer">3 days ago</span>
+                <dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div><div id="additional-metadata-line" class="style-scope ytd-grid-video-renderer"><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div></div><ytd-badge-supported-renderer id="video-badges" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    
+      <div class="badge badge-style-type-simple style-scope ytd-badge-supported-renderer">
+        <yt-icon class="style-scope ytd-badge-supported-renderer" disable-upgrade="" hidden="">
+        </yt-icon>
+        <span class="style-scope ytd-badge-supported-renderer">CC</span>
+      </div>
+    <dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat>
+  </ytd-badge-supported-renderer><div id="menu" class="style-scope ytd-grid-video-renderer"></div></div><div id="buttons" class="style-scope ytd-grid-video-renderer"></div>
+
+
+<div id="dismissed-content" class="style-scope ytd-grid-video-renderer"></div>
+
+
+<ytd-thumbnail use-hovered-property="" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=Wnptqz_177E">
+      <yt-img-shadow ftl-eligible="" class="style-scope ytd-thumbnail no-transition" style="background-color: transparent;" loaded=""><!--css-build:shady--><img id="img" class="style-scope yt-img-shadow" alt="" src="https://i.ytimg.com/vi/Wnptqz_177E/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLD5nVFXonEhAAmA83RMSuNq2NtMGg" width="210"></yt-img-shadow>
+      
+      <div id="overlays" class="style-scope ytd-thumbnail"></div>
+      <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+      <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
+    </a>
+  </ytd-thumbnail><div id="details" class="style-scope ytd-grid-video-renderer"><div id="meta" class="style-scope ytd-grid-video-renderer"><h3 class="style-scope ytd-grid-video-renderer"><ytd-badge-supported-renderer class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><a id="video-title" class="yt-simple-endpoint style-scope ytd-grid-video-renderer" aria-label="I LOVE BUILDING COMPUTERS!! by Linus Tech Tips Streamed 4 days ago 3 hours, 52 minutes 1,089,365 views" title="I LOVE BUILDING COMPUTERS!!" href="/watch?v=Wnptqz_177E">I LOVE BUILDING COMPUTERS!!</a></h3><div id="metadata-container" class="grid style-scope ytd-grid-video-renderer" meta-block=""><div id="metadata" class="style-scope ytd-grid-video-renderer"><div id="byline-container" class="style-scope ytd-grid-video-renderer" hidden=""><ytd-channel-name id="channel-name" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    <div id="container" class="style-scope ytd-channel-name">
+      <div id="text-container" class="style-scope ytd-channel-name">
+        <yt-formatted-string id="text" title="" class="style-scope ytd-channel-name" ellipsis-truncate=""></yt-formatted-string>
+      </div>
+      <paper-tooltip fit-to-visible-bounds="" offset="10" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady-->
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+        
+      
+    </div>
+</paper-tooltip>
+    </div>
+    <ytd-badge-supported-renderer class="style-scope ytd-channel-name"><!--css-build:shady-->
+    
+    
+      <div class="badge badge-style-type-verified style-scope ytd-badge-supported-renderer">
+        <yt-icon class="style-scope ytd-badge-supported-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" style="pointer-events: none; display: block; width: 100%; height: 100%;" class="style-scope yt-icon"><g class="style-scope yt-icon">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10 S17.52,2,12,2z M9.92,17.93l-4.95-4.95l2.05-2.05l2.9,2.9l7.35-7.35l2.05,2.05L9.92,17.93z" class="style-scope yt-icon"></path>
+      </g></svg><!--css-build:shady-->
+    
+    
+  </yt-icon>
+        <span class="style-scope ytd-badge-supported-renderer"></span>
+      </div>
+    <dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat>
+  </ytd-badge-supported-renderer>
+  </ytd-channel-name></div><div id="metadata-line" class="style-scope ytd-grid-video-renderer">
+                  <span class="style-scope ytd-grid-video-renderer">1M views</span>
+                
+                  <span class="style-scope ytd-grid-video-renderer">Streamed 4 days ago</span>
+                <dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div><div id="additional-metadata-line" class="style-scope ytd-grid-video-renderer"><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div></div><ytd-badge-supported-renderer id="video-badges" class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><div id="menu" class="style-scope ytd-grid-video-renderer"></div></div><div id="buttons" class="style-scope ytd-grid-video-renderer"></div>
+
+
+<div id="dismissed-content" class="style-scope ytd-grid-video-renderer"></div>
+
+
+<ytd-thumbnail use-hovered-property="" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=IlnskJj6LRs">
+      <yt-img-shadow ftl-eligible="" class="style-scope ytd-thumbnail no-transition" style="background-color: transparent;" loaded=""><!--css-build:shady--><img id="img" class="style-scope yt-img-shadow" alt="" src="https://i.ytimg.com/vi/IlnskJj6LRs/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLDct8zC3iPtngyu2-lOzt4qAcGb5g" width="210"></yt-img-shadow>
+      
+      <div id="overlays" class="style-scope ytd-thumbnail"></div>
+      <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+      <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
+    </a>
+  </ytd-thumbnail><div id="details" class="style-scope ytd-grid-video-renderer"><div id="meta" class="style-scope ytd-grid-video-renderer"><h3 class="style-scope ytd-grid-video-renderer"><ytd-badge-supported-renderer class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><a id="video-title" class="yt-simple-endpoint style-scope ytd-grid-video-renderer" aria-label="Are hard drives dead? 8TB M.2 SSD by Linus Tech Tips 5 days ago 12 minutes, 15 seconds 1,639,944 views" title="Are hard drives dead? 8TB M.2 SSD" href="/watch?v=IlnskJj6LRs">Are hard drives dead? 8TB M.2 SSD</a></h3><div id="metadata-container" class="grid style-scope ytd-grid-video-renderer" meta-block=""><div id="metadata" class="style-scope ytd-grid-video-renderer"><div id="byline-container" class="style-scope ytd-grid-video-renderer" hidden=""><ytd-channel-name id="channel-name" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    <div id="container" class="style-scope ytd-channel-name">
+      <div id="text-container" class="style-scope ytd-channel-name">
+        <yt-formatted-string id="text" title="" class="style-scope ytd-channel-name" ellipsis-truncate=""></yt-formatted-string>
+      </div>
+      <paper-tooltip fit-to-visible-bounds="" offset="10" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady-->
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+        
+      
+    </div>
+</paper-tooltip>
+    </div>
+    <ytd-badge-supported-renderer class="style-scope ytd-channel-name"><!--css-build:shady-->
+    
+    
+      <div class="badge badge-style-type-verified style-scope ytd-badge-supported-renderer">
+        <yt-icon class="style-scope ytd-badge-supported-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" style="pointer-events: none; display: block; width: 100%; height: 100%;" class="style-scope yt-icon"><g class="style-scope yt-icon">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10 S17.52,2,12,2z M9.92,17.93l-4.95-4.95l2.05-2.05l2.9,2.9l7.35-7.35l2.05,2.05L9.92,17.93z" class="style-scope yt-icon"></path>
+      </g></svg><!--css-build:shady-->
+    
+    
+  </yt-icon>
+        <span class="style-scope ytd-badge-supported-renderer"></span>
+      </div>
+    <dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat>
+  </ytd-badge-supported-renderer>
+  </ytd-channel-name></div><div id="metadata-line" class="style-scope ytd-grid-video-renderer">
+                  <span class="style-scope ytd-grid-video-renderer">1.6M views</span>
+                
+                  <span class="style-scope ytd-grid-video-renderer">5 days ago</span>
+                <dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div><div id="additional-metadata-line" class="style-scope ytd-grid-video-renderer"><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div></div><ytd-badge-supported-renderer id="video-badges" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    
+      <div class="badge badge-style-type-simple style-scope ytd-badge-supported-renderer">
+        <yt-icon class="style-scope ytd-badge-supported-renderer" disable-upgrade="" hidden="">
+        </yt-icon>
+        <span class="style-scope ytd-badge-supported-renderer">CC</span>
+      </div>
+    <dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat>
+  </ytd-badge-supported-renderer><div id="menu" class="style-scope ytd-grid-video-renderer"></div></div><div id="buttons" class="style-scope ytd-grid-video-renderer"></div>
+
+
+<div id="dismissed-content" class="style-scope ytd-grid-video-renderer"></div>
+
+
+<ytd-thumbnail use-hovered-property="" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=0SyLqFuf_SU">
+      <yt-img-shadow ftl-eligible="" class="style-scope ytd-thumbnail no-transition empty" style="background-color: transparent;"><!--css-build:shady--><img id="img" class="style-scope yt-img-shadow" alt="" width="210"></yt-img-shadow>
+      
+      <div id="overlays" class="style-scope ytd-thumbnail"></div>
+      <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+      <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
+    </a>
+  </ytd-thumbnail><div id="details" class="style-scope ytd-grid-video-renderer"><div id="meta" class="style-scope ytd-grid-video-renderer"><h3 class="style-scope ytd-grid-video-renderer"><ytd-badge-supported-renderer class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><a id="video-title" class="yt-simple-endpoint style-scope ytd-grid-video-renderer" aria-label="Intel and AMD don’t want you to know this… (but your old computer is still fine) by Linus Tech Tips 3 weeks ago 14 minutes, 26 seconds 1,750,056 views" title="Intel and AMD don’t want you to know this… (but your old computer is still fine)" href="/watch?v=0SyLqFuf_SU">Intel and AMD don’t want you to know this… (but your old computer is still fine)</a></h3><div id="metadata-container" class="grid style-scope ytd-grid-video-renderer" meta-block=""><div id="metadata" class="style-scope ytd-grid-video-renderer"><div id="byline-container" class="style-scope ytd-grid-video-renderer"><ytd-channel-name id="channel-name" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    <div id="container" class="style-scope ytd-channel-name">
+      <div id="text-container" class="style-scope ytd-channel-name">
+        <yt-formatted-string id="text" title="" class="style-scope ytd-channel-name complex-string" ellipsis-truncate="" has-link-only_=""><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/user/LinusTechTips" dir="auto">Linus Tech Tips</a></yt-formatted-string>
+      </div>
+      <paper-tooltip fit-to-visible-bounds="" offset="10" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady-->
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+        Linus Tech Tips
+      
+    </div>
+</paper-tooltip>
+    </div>
+    <ytd-badge-supported-renderer class="style-scope ytd-channel-name"><!--css-build:shady-->
+    
+    
+      <div class="badge badge-style-type-verified style-scope ytd-badge-supported-renderer">
+        <yt-icon class="style-scope ytd-badge-supported-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" style="pointer-events: none; display: block; width: 100%; height: 100%;" class="style-scope yt-icon"><g class="style-scope yt-icon">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10 S17.52,2,12,2z M9.92,17.93l-4.95-4.95l2.05-2.05l2.9,2.9l7.35-7.35l2.05,2.05L9.92,17.93z" class="style-scope yt-icon"></path>
+      </g></svg><!--css-build:shady-->
+    
+    
+  </yt-icon>
+        <span class="style-scope ytd-badge-supported-renderer"></span>
+      </div>
+    <dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat>
+  </ytd-badge-supported-renderer>
+  </ytd-channel-name></div><div id="metadata-line" class="style-scope ytd-grid-video-renderer">
+                  <span class="style-scope ytd-grid-video-renderer">1.7M views</span>
+                
+                  <span class="style-scope ytd-grid-video-renderer">3 weeks ago</span>
+                <dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div><div id="additional-metadata-line" class="style-scope ytd-grid-video-renderer"><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div></div><ytd-badge-supported-renderer id="video-badges" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    
+      <div class="badge badge-style-type-simple style-scope ytd-badge-supported-renderer">
+        <yt-icon class="style-scope ytd-badge-supported-renderer" disable-upgrade="" hidden="">
+        </yt-icon>
+        <span class="style-scope ytd-badge-supported-renderer">CC</span>
+      </div>
+    <dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat>
+  </ytd-badge-supported-renderer><div id="menu" class="style-scope ytd-grid-video-renderer"></div></div><div id="buttons" class="style-scope ytd-grid-video-renderer"></div>
+
+
+<div id="dismissed-content" class="style-scope ytd-grid-video-renderer"></div>
+
+
+<ytd-thumbnail use-hovered-property="" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=UTwgInKmEHI">
+      <yt-img-shadow ftl-eligible="" class="style-scope ytd-thumbnail no-transition empty" style="background-color: transparent;"><!--css-build:shady--><img id="img" class="style-scope yt-img-shadow" alt="" width="210"></yt-img-shadow>
+      
+      <div id="overlays" class="style-scope ytd-thumbnail"></div>
+      <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+      <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
+    </a>
+  </ytd-thumbnail><div id="details" class="style-scope ytd-grid-video-renderer"><div id="meta" class="style-scope ytd-grid-video-renderer"><h3 class="style-scope ytd-grid-video-renderer"><ytd-badge-supported-renderer class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><a id="video-title" class="yt-simple-endpoint style-scope ytd-grid-video-renderer" aria-label="How Much Should You Spend to play Half Life Alyx? by Linus Tech Tips 2 months ago 18 minutes 1,674,484 views" title="How Much Should You Spend to play Half Life Alyx?" href="/watch?v=UTwgInKmEHI">How Much Should You Spend to play Half Life Alyx?</a></h3><div id="metadata-container" class="grid style-scope ytd-grid-video-renderer" meta-block=""><div id="metadata" class="style-scope ytd-grid-video-renderer"><div id="byline-container" class="style-scope ytd-grid-video-renderer"><ytd-channel-name id="channel-name" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    <div id="container" class="style-scope ytd-channel-name">
+      <div id="text-container" class="style-scope ytd-channel-name">
+        <yt-formatted-string id="text" title="" class="style-scope ytd-channel-name complex-string" ellipsis-truncate="" has-link-only_=""><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/user/LinusTechTips" dir="auto">Linus Tech Tips</a></yt-formatted-string>
+      </div>
+      <paper-tooltip fit-to-visible-bounds="" offset="10" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady-->
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+        Linus Tech Tips
+      
+    </div>
+</paper-tooltip>
+    </div>
+    <ytd-badge-supported-renderer class="style-scope ytd-channel-name"><!--css-build:shady-->
+    
+    
+      <div class="badge badge-style-type-verified style-scope ytd-badge-supported-renderer">
+        <yt-icon class="style-scope ytd-badge-supported-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" style="pointer-events: none; display: block; width: 100%; height: 100%;" class="style-scope yt-icon"><g class="style-scope yt-icon">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10 S17.52,2,12,2z M9.92,17.93l-4.95-4.95l2.05-2.05l2.9,2.9l7.35-7.35l2.05,2.05L9.92,17.93z" class="style-scope yt-icon"></path>
+      </g></svg><!--css-build:shady-->
+    
+    
+  </yt-icon>
+        <span class="style-scope ytd-badge-supported-renderer"></span>
+      </div>
+    <dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat>
+  </ytd-badge-supported-renderer>
+  </ytd-channel-name></div><div id="metadata-line" class="style-scope ytd-grid-video-renderer">
+                  <span class="style-scope ytd-grid-video-renderer">1.6M views</span>
+                
+                  <span class="style-scope ytd-grid-video-renderer">2 months ago</span>
+                <dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div><div id="additional-metadata-line" class="style-scope ytd-grid-video-renderer"><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div></div><ytd-badge-supported-renderer id="video-badges" class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><div id="menu" class="style-scope ytd-grid-video-renderer"></div></div><div id="buttons" class="style-scope ytd-grid-video-renderer"></div>
+
+
+<div id="dismissed-content" class="style-scope ytd-grid-video-renderer"></div>
+
+
+<ytd-thumbnail use-hovered-property="" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=v7MYOpFONCU">
+      <yt-img-shadow ftl-eligible="" class="style-scope ytd-thumbnail no-transition empty" style="background-color: transparent;"><!--css-build:shady--><img id="img" class="style-scope yt-img-shadow" alt="" width="210"></yt-img-shadow>
+      
+      <div id="overlays" class="style-scope ytd-thumbnail"></div>
+      <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+      <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
+    </a>
+  </ytd-thumbnail><div id="details" class="style-scope ytd-grid-video-renderer"><div id="meta" class="style-scope ytd-grid-video-renderer"><h3 class="style-scope ytd-grid-video-renderer"><ytd-badge-supported-renderer class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><a id="video-title" class="yt-simple-endpoint style-scope ytd-grid-video-renderer" aria-label="First Person View PC BUILD Guide! (POV) by Linus Tech Tips 5 months ago 40 minutes 3,333,116 views" title="First Person View PC BUILD Guide! (POV)" href="/watch?v=v7MYOpFONCU">First Person View PC BUILD Guide! (POV)</a></h3><div id="metadata-container" class="grid style-scope ytd-grid-video-renderer" meta-block=""><div id="metadata" class="style-scope ytd-grid-video-renderer"><div id="byline-container" class="style-scope ytd-grid-video-renderer"><ytd-channel-name id="channel-name" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    <div id="container" class="style-scope ytd-channel-name">
+      <div id="text-container" class="style-scope ytd-channel-name">
+        <yt-formatted-string id="text" title="" class="style-scope ytd-channel-name complex-string" ellipsis-truncate="" has-link-only_=""><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/user/LinusTechTips" dir="auto">Linus Tech Tips</a></yt-formatted-string>
+      </div>
+      <paper-tooltip fit-to-visible-bounds="" offset="10" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady-->
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+        Linus Tech Tips
+      
+    </div>
+</paper-tooltip>
+    </div>
+    <ytd-badge-supported-renderer class="style-scope ytd-channel-name"><!--css-build:shady-->
+    
+    
+      <div class="badge badge-style-type-verified style-scope ytd-badge-supported-renderer">
+        <yt-icon class="style-scope ytd-badge-supported-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" style="pointer-events: none; display: block; width: 100%; height: 100%;" class="style-scope yt-icon"><g class="style-scope yt-icon">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10 S17.52,2,12,2z M9.92,17.93l-4.95-4.95l2.05-2.05l2.9,2.9l7.35-7.35l2.05,2.05L9.92,17.93z" class="style-scope yt-icon"></path>
+      </g></svg><!--css-build:shady-->
+    
+    
+  </yt-icon>
+        <span class="style-scope ytd-badge-supported-renderer"></span>
+      </div>
+    <dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat>
+  </ytd-badge-supported-renderer>
+  </ytd-channel-name></div><div id="metadata-line" class="style-scope ytd-grid-video-renderer">
+                  <span class="style-scope ytd-grid-video-renderer">3.3M views</span>
+                
+                  <span class="style-scope ytd-grid-video-renderer">5 months ago</span>
+                <dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div><div id="additional-metadata-line" class="style-scope ytd-grid-video-renderer"><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div></div><ytd-badge-supported-renderer id="video-badges" class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><div id="menu" class="style-scope ytd-grid-video-renderer"></div></div><div id="buttons" class="style-scope ytd-grid-video-renderer"></div>
+
+
+<div id="dismissed-content" class="style-scope ytd-grid-video-renderer"></div>
+
+
+<ytd-thumbnail use-hovered-property="" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=CoDPTJ-3qCM">
+      <yt-img-shadow ftl-eligible="" class="style-scope ytd-thumbnail no-transition empty" style="background-color: transparent;"><!--css-build:shady--><img id="img" class="style-scope yt-img-shadow" alt="" width="210"></yt-img-shadow>
+      
+      <div id="overlays" class="style-scope ytd-thumbnail"></div>
+      <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+      <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
+    </a>
+  </ytd-thumbnail><div id="details" class="style-scope ytd-grid-video-renderer"><div id="meta" class="style-scope ytd-grid-video-renderer"><h3 class="style-scope ytd-grid-video-renderer"><ytd-badge-supported-renderer class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><a id="video-title" class="yt-simple-endpoint style-scope ytd-grid-video-renderer" aria-label="What Graphics Card to Buy - Early 2020 by Linus Tech Tips 5 months ago 8 minutes, 6 seconds 2,665,166 views" title="What Graphics Card to Buy - Early 2020" href="/watch?v=CoDPTJ-3qCM">What Graphics Card to Buy - Early 2020</a></h3><div id="metadata-container" class="grid style-scope ytd-grid-video-renderer" meta-block=""><div id="metadata" class="style-scope ytd-grid-video-renderer"><div id="byline-container" class="style-scope ytd-grid-video-renderer"><ytd-channel-name id="channel-name" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    <div id="container" class="style-scope ytd-channel-name">
+      <div id="text-container" class="style-scope ytd-channel-name">
+        <yt-formatted-string id="text" title="" class="style-scope ytd-channel-name complex-string" ellipsis-truncate="" has-link-only_=""><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/user/LinusTechTips" dir="auto">Linus Tech Tips</a></yt-formatted-string>
+      </div>
+      <paper-tooltip fit-to-visible-bounds="" offset="10" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady-->
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+        Linus Tech Tips
+      
+    </div>
+</paper-tooltip>
+    </div>
+    <ytd-badge-supported-renderer class="style-scope ytd-channel-name"><!--css-build:shady-->
+    
+    
+      <div class="badge badge-style-type-verified style-scope ytd-badge-supported-renderer">
+        <yt-icon class="style-scope ytd-badge-supported-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" style="pointer-events: none; display: block; width: 100%; height: 100%;" class="style-scope yt-icon"><g class="style-scope yt-icon">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10 S17.52,2,12,2z M9.92,17.93l-4.95-4.95l2.05-2.05l2.9,2.9l7.35-7.35l2.05,2.05L9.92,17.93z" class="style-scope yt-icon"></path>
+      </g></svg><!--css-build:shady-->
+    
+    
+  </yt-icon>
+        <span class="style-scope ytd-badge-supported-renderer"></span>
+      </div>
+    <dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat>
+  </ytd-badge-supported-renderer>
+  </ytd-channel-name></div><div id="metadata-line" class="style-scope ytd-grid-video-renderer">
+                  <span class="style-scope ytd-grid-video-renderer">2.6M views</span>
+                
+                  <span class="style-scope ytd-grid-video-renderer">5 months ago</span>
+                <dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div><div id="additional-metadata-line" class="style-scope ytd-grid-video-renderer"><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div></div><ytd-badge-supported-renderer id="video-badges" class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><div id="menu" class="style-scope ytd-grid-video-renderer"></div></div><div id="buttons" class="style-scope ytd-grid-video-renderer"></div>
+
+
+<div id="dismissed-content" class="style-scope ytd-grid-video-renderer"></div>
+
+
+<ytd-thumbnail use-hovered-property="" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=Lfcschg9uwU">
+      <yt-img-shadow ftl-eligible="" class="style-scope ytd-thumbnail no-transition empty" style="background-color: transparent;"><!--css-build:shady--><img id="img" class="style-scope yt-img-shadow" alt="" width="210"></yt-img-shadow>
+      
+      <div id="overlays" class="style-scope ytd-thumbnail"></div>
+      <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+      <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
+    </a>
+  </ytd-thumbnail><div id="details" class="style-scope ytd-grid-video-renderer"><div id="meta" class="style-scope ytd-grid-video-renderer"><h3 class="style-scope ytd-grid-video-renderer"><ytd-badge-supported-renderer class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><a id="video-title" class="yt-simple-endpoint style-scope ytd-grid-video-renderer" aria-label="The Perfect DIY Gaming PC - Early 2020 Buyer's Guide by Linus Tech Tips 6 months ago 11 minutes, 18 seconds 1,917,792 views" title="The Perfect DIY Gaming PC - Early 2020 Buyer's Guide" href="/watch?v=Lfcschg9uwU">The Perfect DIY Gaming PC - Early 2020 Buyer's Guide</a></h3><div id="metadata-container" class="grid style-scope ytd-grid-video-renderer" meta-block=""><div id="metadata" class="style-scope ytd-grid-video-renderer"><div id="byline-container" class="style-scope ytd-grid-video-renderer"><ytd-channel-name id="channel-name" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    <div id="container" class="style-scope ytd-channel-name">
+      <div id="text-container" class="style-scope ytd-channel-name">
+        <yt-formatted-string id="text" title="" class="style-scope ytd-channel-name complex-string" ellipsis-truncate="" has-link-only_=""><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/user/LinusTechTips" dir="auto">Linus Tech Tips</a></yt-formatted-string>
+      </div>
+      <paper-tooltip fit-to-visible-bounds="" offset="10" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady-->
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+        Linus Tech Tips
+      
+    </div>
+</paper-tooltip>
+    </div>
+    <ytd-badge-supported-renderer class="style-scope ytd-channel-name"><!--css-build:shady-->
+    
+    
+      <div class="badge badge-style-type-verified style-scope ytd-badge-supported-renderer">
+        <yt-icon class="style-scope ytd-badge-supported-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" style="pointer-events: none; display: block; width: 100%; height: 100%;" class="style-scope yt-icon"><g class="style-scope yt-icon">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10 S17.52,2,12,2z M9.92,17.93l-4.95-4.95l2.05-2.05l2.9,2.9l7.35-7.35l2.05,2.05L9.92,17.93z" class="style-scope yt-icon"></path>
+      </g></svg><!--css-build:shady-->
+    
+    
+  </yt-icon>
+        <span class="style-scope ytd-badge-supported-renderer"></span>
+      </div>
+    <dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat>
+  </ytd-badge-supported-renderer>
+  </ytd-channel-name></div><div id="metadata-line" class="style-scope ytd-grid-video-renderer">
+                  <span class="style-scope ytd-grid-video-renderer">1.9M views</span>
+                
+                  <span class="style-scope ytd-grid-video-renderer">6 months ago</span>
+                <dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div><div id="additional-metadata-line" class="style-scope ytd-grid-video-renderer"><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div></div><ytd-badge-supported-renderer id="video-badges" class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><div id="menu" class="style-scope ytd-grid-video-renderer"></div></div><div id="buttons" class="style-scope ytd-grid-video-renderer"></div>
+
+
+<div id="dismissed-content" class="style-scope ytd-grid-video-renderer"></div>
+
+
+<ytd-thumbnail use-hovered-property="" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=aFZ5ofmZt58">
+      <yt-img-shadow ftl-eligible="" class="style-scope ytd-thumbnail no-transition empty" style="background-color: transparent;"><!--css-build:shady--><img id="img" class="style-scope yt-img-shadow" alt="" width="210"></yt-img-shadow>
+      
+      <div id="overlays" class="style-scope ytd-thumbnail"></div>
+      <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+      <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
+    </a>
+  </ytd-thumbnail><div id="details" class="style-scope ytd-grid-video-renderer"><div id="meta" class="style-scope ytd-grid-video-renderer"><h3 class="style-scope ytd-grid-video-renderer"><ytd-badge-supported-renderer class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><a id="video-title" class="yt-simple-endpoint style-scope ytd-grid-video-renderer" aria-label="Gaming Monitor Buyer’s Guide - Late 2019 by Linus Tech Tips 6 months ago 11 minutes, 47 seconds 2,347,544 views" title="Gaming Monitor Buyer’s Guide - Late 2019" href="/watch?v=aFZ5ofmZt58">Gaming Monitor Buyer’s Guide - Late 2019</a></h3><div id="metadata-container" class="grid style-scope ytd-grid-video-renderer" meta-block=""><div id="metadata" class="style-scope ytd-grid-video-renderer"><div id="byline-container" class="style-scope ytd-grid-video-renderer"><ytd-channel-name id="channel-name" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    <div id="container" class="style-scope ytd-channel-name">
+      <div id="text-container" class="style-scope ytd-channel-name">
+        <yt-formatted-string id="text" title="" class="style-scope ytd-channel-name complex-string" ellipsis-truncate="" has-link-only_=""><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/user/LinusTechTips" dir="auto">Linus Tech Tips</a></yt-formatted-string>
+      </div>
+      <paper-tooltip fit-to-visible-bounds="" offset="10" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady-->
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+        Linus Tech Tips
+      
+    </div>
+</paper-tooltip>
+    </div>
+    <ytd-badge-supported-renderer class="style-scope ytd-channel-name"><!--css-build:shady-->
+    
+    
+      <div class="badge badge-style-type-verified style-scope ytd-badge-supported-renderer">
+        <yt-icon class="style-scope ytd-badge-supported-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" style="pointer-events: none; display: block; width: 100%; height: 100%;" class="style-scope yt-icon"><g class="style-scope yt-icon">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10 S17.52,2,12,2z M9.92,17.93l-4.95-4.95l2.05-2.05l2.9,2.9l7.35-7.35l2.05,2.05L9.92,17.93z" class="style-scope yt-icon"></path>
+      </g></svg><!--css-build:shady-->
+    
+    
+  </yt-icon>
+        <span class="style-scope ytd-badge-supported-renderer"></span>
+      </div>
+    <dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat>
+  </ytd-badge-supported-renderer>
+  </ytd-channel-name></div><div id="metadata-line" class="style-scope ytd-grid-video-renderer">
+                  <span class="style-scope ytd-grid-video-renderer">2.3M views</span>
+                
+                  <span class="style-scope ytd-grid-video-renderer">6 months ago</span>
+                <dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div><div id="additional-metadata-line" class="style-scope ytd-grid-video-renderer"><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div></div><ytd-badge-supported-renderer id="video-badges" class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><div id="menu" class="style-scope ytd-grid-video-renderer"></div></div><div id="buttons" class="style-scope ytd-grid-video-renderer"></div>
+
+
+<div id="dismissed-content" class="style-scope ytd-grid-video-renderer"></div>
+
+
+<ytd-thumbnail use-hovered-property="" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=FiyWy0FOdIM">
+      <yt-img-shadow ftl-eligible="" class="style-scope ytd-thumbnail no-transition empty" style="background-color: transparent;"><!--css-build:shady--><img id="img" class="style-scope yt-img-shadow" alt="" width="210"></yt-img-shadow>
+      
+      <div id="overlays" class="style-scope ytd-thumbnail"></div>
+      <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+      <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
+    </a>
+  </ytd-thumbnail><div id="details" class="style-scope ytd-grid-video-renderer"><div id="meta" class="style-scope ytd-grid-video-renderer"><h3 class="style-scope ytd-grid-video-renderer"><ytd-badge-supported-renderer class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><a id="video-title" class="yt-simple-endpoint style-scope ytd-grid-video-renderer" aria-label="The New XBOX is a PC?! - WAN Show Dec 13, 2019 by Linus Tech Tips Streamed 6 months ago 1 hour, 15 minutes 698,162 views" title="The New XBOX is a PC?! - WAN Show Dec 13, 2019" href="/watch?v=FiyWy0FOdIM">The New XBOX is a PC?! - WAN Show Dec 13, 2019</a></h3><div id="metadata-container" class="grid style-scope ytd-grid-video-renderer" meta-block=""><div id="metadata" class="style-scope ytd-grid-video-renderer"><div id="byline-container" class="style-scope ytd-grid-video-renderer"><ytd-channel-name id="channel-name" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    <div id="container" class="style-scope ytd-channel-name">
+      <div id="text-container" class="style-scope ytd-channel-name">
+        <yt-formatted-string id="text" title="" class="style-scope ytd-channel-name complex-string" ellipsis-truncate="" has-link-only_=""><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/user/LinusTechTips" dir="auto">Linus Tech Tips</a></yt-formatted-string>
+      </div>
+      <paper-tooltip fit-to-visible-bounds="" offset="10" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady-->
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+        Linus Tech Tips
+      
+    </div>
+</paper-tooltip>
+    </div>
+    <ytd-badge-supported-renderer class="style-scope ytd-channel-name"><!--css-build:shady-->
+    
+    
+      <div class="badge badge-style-type-verified style-scope ytd-badge-supported-renderer">
+        <yt-icon class="style-scope ytd-badge-supported-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" style="pointer-events: none; display: block; width: 100%; height: 100%;" class="style-scope yt-icon"><g class="style-scope yt-icon">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10 S17.52,2,12,2z M9.92,17.93l-4.95-4.95l2.05-2.05l2.9,2.9l7.35-7.35l2.05,2.05L9.92,17.93z" class="style-scope yt-icon"></path>
+      </g></svg><!--css-build:shady-->
+    
+    
+  </yt-icon>
+        <span class="style-scope ytd-badge-supported-renderer"></span>
+      </div>
+    <dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat>
+  </ytd-badge-supported-renderer>
+  </ytd-channel-name></div><div id="metadata-line" class="style-scope ytd-grid-video-renderer">
+                  <span class="style-scope ytd-grid-video-renderer">698K views</span>
+                
+                  <span class="style-scope ytd-grid-video-renderer">Streamed 6 months ago</span>
+                <dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div><div id="additional-metadata-line" class="style-scope ytd-grid-video-renderer"><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div></div><ytd-badge-supported-renderer id="video-badges" class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><div id="menu" class="style-scope ytd-grid-video-renderer"></div></div><div id="buttons" class="style-scope ytd-grid-video-renderer"></div>
+
+
+<div id="dismissed-content" class="style-scope ytd-grid-video-renderer"></div>
+
+
+<ytd-thumbnail use-hovered-property="" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=m6c6RianKgE">
+      <yt-img-shadow ftl-eligible="" class="style-scope ytd-thumbnail no-transition empty" style="background-color: transparent;"><!--css-build:shady--><img id="img" class="style-scope yt-img-shadow" alt="" width="210"></yt-img-shadow>
+      
+      <div id="overlays" class="style-scope ytd-thumbnail"></div>
+      <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+      <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
+    </a>
+  </ytd-thumbnail><div id="details" class="style-scope ytd-grid-video-renderer"><div id="meta" class="style-scope ytd-grid-video-renderer"><h3 class="style-scope ytd-grid-video-renderer"><ytd-badge-supported-renderer class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><a id="video-title" class="yt-simple-endpoint style-scope ytd-grid-video-renderer" aria-label="Apple Wont Let Me Hate Them... - WAN Show Dec 20, 2019 by Linus Tech Tips Streamed 6 months ago 1 hour, 13 minutes 498,710 views" title="Apple Wont Let Me Hate Them... - WAN Show Dec 20, 2019" href="/watch?v=m6c6RianKgE">Apple Wont Let Me Hate Them... - WAN Show Dec 20, 2019</a></h3><div id="metadata-container" class="grid style-scope ytd-grid-video-renderer" meta-block=""><div id="metadata" class="style-scope ytd-grid-video-renderer"><div id="byline-container" class="style-scope ytd-grid-video-renderer"><ytd-channel-name id="channel-name" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    <div id="container" class="style-scope ytd-channel-name">
+      <div id="text-container" class="style-scope ytd-channel-name">
+        <yt-formatted-string id="text" title="" class="style-scope ytd-channel-name complex-string" ellipsis-truncate="" has-link-only_=""><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/user/LinusTechTips" dir="auto">Linus Tech Tips</a></yt-formatted-string>
+      </div>
+      <paper-tooltip fit-to-visible-bounds="" offset="10" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady-->
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+        Linus Tech Tips
+      
+    </div>
+</paper-tooltip>
+    </div>
+    <ytd-badge-supported-renderer class="style-scope ytd-channel-name"><!--css-build:shady-->
+    
+    
+      <div class="badge badge-style-type-verified style-scope ytd-badge-supported-renderer">
+        <yt-icon class="style-scope ytd-badge-supported-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" style="pointer-events: none; display: block; width: 100%; height: 100%;" class="style-scope yt-icon"><g class="style-scope yt-icon">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10 S17.52,2,12,2z M9.92,17.93l-4.95-4.95l2.05-2.05l2.9,2.9l7.35-7.35l2.05,2.05L9.92,17.93z" class="style-scope yt-icon"></path>
+      </g></svg><!--css-build:shady-->
+    
+    
+  </yt-icon>
+        <span class="style-scope ytd-badge-supported-renderer"></span>
+      </div>
+    <dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat>
+  </ytd-badge-supported-renderer>
+  </ytd-channel-name></div><div id="metadata-line" class="style-scope ytd-grid-video-renderer">
+                  <span class="style-scope ytd-grid-video-renderer">498K views</span>
+                
+                  <span class="style-scope ytd-grid-video-renderer">Streamed 6 months ago</span>
+                <dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div><div id="additional-metadata-line" class="style-scope ytd-grid-video-renderer"><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div></div><ytd-badge-supported-renderer id="video-badges" class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><div id="menu" class="style-scope ytd-grid-video-renderer"></div></div><div id="buttons" class="style-scope ytd-grid-video-renderer"></div>
+
+
+<div id="dismissed-content" class="style-scope ytd-grid-video-renderer"></div>
+
+
+<ytd-thumbnail use-hovered-property="" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=OeRa1St6KtM">
+      <yt-img-shadow ftl-eligible="" class="style-scope ytd-thumbnail no-transition empty" style="background-color: transparent;"><!--css-build:shady--><img id="img" class="style-scope yt-img-shadow" alt="" width="210"></yt-img-shadow>
+      
+      <div id="overlays" class="style-scope ytd-thumbnail"></div>
+      <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+      <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
+    </a>
+  </ytd-thumbnail><div id="details" class="style-scope ytd-grid-video-renderer"><div id="meta" class="style-scope ytd-grid-video-renderer"><h3 class="style-scope ytd-grid-video-renderer"><ytd-badge-supported-renderer class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><a id="video-title" class="yt-simple-endpoint style-scope ytd-grid-video-renderer" aria-label="Intel's Graphics Card Leaks Look TERRIBLE... - WAN Show Dec 27, 2019 by Linus Tech Tips Streamed 5 months ago 1 hour, 14 minutes 685,903 views" title="Intel's Graphics Card Leaks Look TERRIBLE... - WAN Show Dec 27, 2019" href="/watch?v=OeRa1St6KtM">Intel's Graphics Card Leaks Look TERRIBLE... - WAN Show Dec 27, 2019</a></h3><div id="metadata-container" class="grid style-scope ytd-grid-video-renderer" meta-block=""><div id="metadata" class="style-scope ytd-grid-video-renderer"><div id="byline-container" class="style-scope ytd-grid-video-renderer"><ytd-channel-name id="channel-name" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    <div id="container" class="style-scope ytd-channel-name">
+      <div id="text-container" class="style-scope ytd-channel-name">
+        <yt-formatted-string id="text" title="" class="style-scope ytd-channel-name complex-string" ellipsis-truncate="" has-link-only_=""><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/user/LinusTechTips" dir="auto">Linus Tech Tips</a></yt-formatted-string>
+      </div>
+      <paper-tooltip fit-to-visible-bounds="" offset="10" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady-->
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+        Linus Tech Tips
+      
+    </div>
+</paper-tooltip>
+    </div>
+    <ytd-badge-supported-renderer class="style-scope ytd-channel-name"><!--css-build:shady-->
+    
+    
+      <div class="badge badge-style-type-verified style-scope ytd-badge-supported-renderer">
+        <yt-icon class="style-scope ytd-badge-supported-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" style="pointer-events: none; display: block; width: 100%; height: 100%;" class="style-scope yt-icon"><g class="style-scope yt-icon">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10 S17.52,2,12,2z M9.92,17.93l-4.95-4.95l2.05-2.05l2.9,2.9l7.35-7.35l2.05,2.05L9.92,17.93z" class="style-scope yt-icon"></path>
+      </g></svg><!--css-build:shady-->
+    
+    
+  </yt-icon>
+        <span class="style-scope ytd-badge-supported-renderer"></span>
+      </div>
+    <dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat>
+  </ytd-badge-supported-renderer>
+  </ytd-channel-name></div><div id="metadata-line" class="style-scope ytd-grid-video-renderer">
+                  <span class="style-scope ytd-grid-video-renderer">685K views</span>
+                
+                  <span class="style-scope ytd-grid-video-renderer">Streamed 5 months ago</span>
+                <dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div><div id="additional-metadata-line" class="style-scope ytd-grid-video-renderer"><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div></div><ytd-badge-supported-renderer id="video-badges" class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><div id="menu" class="style-scope ytd-grid-video-renderer"></div></div><div id="buttons" class="style-scope ytd-grid-video-renderer"></div>
+
+
+<div id="dismissed-content" class="style-scope ytd-grid-video-renderer"></div>
+
+
+<ytd-thumbnail use-hovered-property="" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=c7k-5orDn6k">
+      <yt-img-shadow ftl-eligible="" class="style-scope ytd-thumbnail no-transition empty" style="background-color: transparent;"><!--css-build:shady--><img id="img" class="style-scope yt-img-shadow" alt="" width="210"></yt-img-shadow>
+      
+      <div id="overlays" class="style-scope ytd-thumbnail"></div>
+      <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+      <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
+    </a>
+  </ytd-thumbnail><div id="details" class="style-scope ytd-grid-video-renderer"><div id="meta" class="style-scope ytd-grid-video-renderer"><h3 class="style-scope ytd-grid-video-renderer"><ytd-badge-supported-renderer class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><a id="video-title" class="yt-simple-endpoint style-scope ytd-grid-video-renderer" aria-label="Apple's $5000 Gaming PC? - WAN Show Jan 3, 2020 by Linus Tech Tips Streamed 5 months ago 59 minutes 554,858 views" title="Apple's $5000 Gaming PC? - WAN Show Jan 3, 2020" href="/watch?v=c7k-5orDn6k">Apple's $5000 Gaming PC? - WAN Show Jan 3, 2020</a></h3><div id="metadata-container" class="grid style-scope ytd-grid-video-renderer" meta-block=""><div id="metadata" class="style-scope ytd-grid-video-renderer"><div id="byline-container" class="style-scope ytd-grid-video-renderer"><ytd-channel-name id="channel-name" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    <div id="container" class="style-scope ytd-channel-name">
+      <div id="text-container" class="style-scope ytd-channel-name">
+        <yt-formatted-string id="text" title="" class="style-scope ytd-channel-name complex-string" ellipsis-truncate="" has-link-only_=""><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/user/LinusTechTips" dir="auto">Linus Tech Tips</a></yt-formatted-string>
+      </div>
+      <paper-tooltip fit-to-visible-bounds="" offset="10" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady-->
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+        Linus Tech Tips
+      
+    </div>
+</paper-tooltip>
+    </div>
+    <ytd-badge-supported-renderer class="style-scope ytd-channel-name"><!--css-build:shady-->
+    
+    
+      <div class="badge badge-style-type-verified style-scope ytd-badge-supported-renderer">
+        <yt-icon class="style-scope ytd-badge-supported-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" style="pointer-events: none; display: block; width: 100%; height: 100%;" class="style-scope yt-icon"><g class="style-scope yt-icon">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10 S17.52,2,12,2z M9.92,17.93l-4.95-4.95l2.05-2.05l2.9,2.9l7.35-7.35l2.05,2.05L9.92,17.93z" class="style-scope yt-icon"></path>
+      </g></svg><!--css-build:shady-->
+    
+    
+  </yt-icon>
+        <span class="style-scope ytd-badge-supported-renderer"></span>
+      </div>
+    <dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat>
+  </ytd-badge-supported-renderer>
+  </ytd-channel-name></div><div id="metadata-line" class="style-scope ytd-grid-video-renderer">
+                  <span class="style-scope ytd-grid-video-renderer">554K views</span>
+                
+                  <span class="style-scope ytd-grid-video-renderer">Streamed 5 months ago</span>
+                <dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div><div id="additional-metadata-line" class="style-scope ytd-grid-video-renderer"><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div></div><ytd-badge-supported-renderer id="video-badges" class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><div id="menu" class="style-scope ytd-grid-video-renderer"></div></div><div id="buttons" class="style-scope ytd-grid-video-renderer"></div>
+
+
+<div id="dismissed-content" class="style-scope ytd-grid-video-renderer"></div>
+
+
+<ytd-thumbnail use-hovered-property="" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=8zoPyMAsVek">
+      <yt-img-shadow ftl-eligible="" class="style-scope ytd-thumbnail no-transition empty" style="background-color: transparent;"><!--css-build:shady--><img id="img" class="style-scope yt-img-shadow" alt="" width="210"></yt-img-shadow>
+      
+      <div id="overlays" class="style-scope ytd-thumbnail"></div>
+      <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+      <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
+    </a>
+  </ytd-thumbnail><div id="details" class="style-scope ytd-grid-video-renderer"><div id="meta" class="style-scope ytd-grid-video-renderer"><h3 class="style-scope ytd-grid-video-renderer"><ytd-badge-supported-renderer class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><a id="video-title" class="yt-simple-endpoint style-scope ytd-grid-video-renderer" aria-label="Intel's GPU Is HERE... ish? - WAN Show Jan 10, 2020 by Linus Tech Tips Streamed 5 months ago 1 hour, 23 minutes 554,921 views" title="Intel's GPU Is HERE... ish? - WAN Show Jan 10, 2020" href="/watch?v=8zoPyMAsVek">Intel's GPU Is HERE... ish? - WAN Show Jan 10, 2020</a></h3><div id="metadata-container" class="grid style-scope ytd-grid-video-renderer" meta-block=""><div id="metadata" class="style-scope ytd-grid-video-renderer"><div id="byline-container" class="style-scope ytd-grid-video-renderer"><ytd-channel-name id="channel-name" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    <div id="container" class="style-scope ytd-channel-name">
+      <div id="text-container" class="style-scope ytd-channel-name">
+        <yt-formatted-string id="text" title="" class="style-scope ytd-channel-name complex-string" ellipsis-truncate="" has-link-only_=""><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/user/LinusTechTips" dir="auto">Linus Tech Tips</a></yt-formatted-string>
+      </div>
+      <paper-tooltip fit-to-visible-bounds="" offset="10" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady-->
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+        Linus Tech Tips
+      
+    </div>
+</paper-tooltip>
+    </div>
+    <ytd-badge-supported-renderer class="style-scope ytd-channel-name"><!--css-build:shady-->
+    
+    
+      <div class="badge badge-style-type-verified style-scope ytd-badge-supported-renderer">
+        <yt-icon class="style-scope ytd-badge-supported-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" style="pointer-events: none; display: block; width: 100%; height: 100%;" class="style-scope yt-icon"><g class="style-scope yt-icon">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10 S17.52,2,12,2z M9.92,17.93l-4.95-4.95l2.05-2.05l2.9,2.9l7.35-7.35l2.05,2.05L9.92,17.93z" class="style-scope yt-icon"></path>
+      </g></svg><!--css-build:shady-->
+    
+    
+  </yt-icon>
+        <span class="style-scope ytd-badge-supported-renderer"></span>
+      </div>
+    <dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat>
+  </ytd-badge-supported-renderer>
+  </ytd-channel-name></div><div id="metadata-line" class="style-scope ytd-grid-video-renderer">
+                  <span class="style-scope ytd-grid-video-renderer">554K views</span>
+                
+                  <span class="style-scope ytd-grid-video-renderer">Streamed 5 months ago</span>
+                <dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div><div id="additional-metadata-line" class="style-scope ytd-grid-video-renderer"><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div></div><ytd-badge-supported-renderer id="video-badges" class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><div id="menu" class="style-scope ytd-grid-video-renderer"></div></div><div id="buttons" class="style-scope ytd-grid-video-renderer"></div>
+
+
+<div id="dismissed-content" class="style-scope ytd-grid-video-renderer"></div>
+
+
+<ytd-thumbnail use-hovered-property="" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=af6FBA-n7eA">
+      <yt-img-shadow ftl-eligible="" class="style-scope ytd-thumbnail no-transition empty" style="background-color: transparent;"><!--css-build:shady--><img id="img" class="style-scope yt-img-shadow" alt="" width="210"></yt-img-shadow>
+      
+      <div id="overlays" class="style-scope ytd-thumbnail"></div>
+      <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+      <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
+    </a>
+  </ytd-thumbnail><div id="details" class="style-scope ytd-grid-video-renderer"><div id="meta" class="style-scope ytd-grid-video-renderer"><h3 class="style-scope ytd-grid-video-renderer"><ytd-badge-supported-renderer class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><a id="video-title" class="yt-simple-endpoint style-scope ytd-grid-video-renderer" aria-label="The NSA is Giving Out It's Hacks for Free! - WAN Show Jan 17, 2020 by Linus Tech Tips Streamed 5 months ago 1 hour 550,085 views" title="The NSA is Giving Out It's Hacks for Free! - WAN Show Jan 17, 2020" href="/watch?v=af6FBA-n7eA">The NSA is Giving Out It's Hacks for Free! - WAN Show Jan 17, 2020</a></h3><div id="metadata-container" class="grid style-scope ytd-grid-video-renderer" meta-block=""><div id="metadata" class="style-scope ytd-grid-video-renderer"><div id="byline-container" class="style-scope ytd-grid-video-renderer"><ytd-channel-name id="channel-name" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    <div id="container" class="style-scope ytd-channel-name">
+      <div id="text-container" class="style-scope ytd-channel-name">
+        <yt-formatted-string id="text" title="" class="style-scope ytd-channel-name complex-string" ellipsis-truncate="" has-link-only_=""><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/user/LinusTechTips" dir="auto">Linus Tech Tips</a></yt-formatted-string>
+      </div>
+      <paper-tooltip fit-to-visible-bounds="" offset="10" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady-->
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+        Linus Tech Tips
+      
+    </div>
+</paper-tooltip>
+    </div>
+    <ytd-badge-supported-renderer class="style-scope ytd-channel-name"><!--css-build:shady-->
+    
+    
+      <div class="badge badge-style-type-verified style-scope ytd-badge-supported-renderer">
+        <yt-icon class="style-scope ytd-badge-supported-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" style="pointer-events: none; display: block; width: 100%; height: 100%;" class="style-scope yt-icon"><g class="style-scope yt-icon">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10 S17.52,2,12,2z M9.92,17.93l-4.95-4.95l2.05-2.05l2.9,2.9l7.35-7.35l2.05,2.05L9.92,17.93z" class="style-scope yt-icon"></path>
+      </g></svg><!--css-build:shady-->
+    
+    
+  </yt-icon>
+        <span class="style-scope ytd-badge-supported-renderer"></span>
+      </div>
+    <dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat>
+  </ytd-badge-supported-renderer>
+  </ytd-channel-name></div><div id="metadata-line" class="style-scope ytd-grid-video-renderer">
+                  <span class="style-scope ytd-grid-video-renderer">550K views</span>
+                
+                  <span class="style-scope ytd-grid-video-renderer">Streamed 5 months ago</span>
+                <dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div><div id="additional-metadata-line" class="style-scope ytd-grid-video-renderer"><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div></div><ytd-badge-supported-renderer id="video-badges" class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><div id="menu" class="style-scope ytd-grid-video-renderer"></div></div><div id="buttons" class="style-scope ytd-grid-video-renderer"></div>
+
+
+<div id="dismissed-content" class="style-scope ytd-grid-video-renderer"></div>
+
+
+<ytd-thumbnail use-hovered-property="" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=sZs4NDC4yrI">
+      <yt-img-shadow ftl-eligible="" class="style-scope ytd-thumbnail no-transition empty" style="background-color: transparent;"><!--css-build:shady--><img id="img" class="style-scope yt-img-shadow" alt="" width="210"></yt-img-shadow>
+      
+      <div id="overlays" class="style-scope ytd-thumbnail"></div>
+      <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+      <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
+    </a>
+  </ytd-thumbnail><div id="details" class="style-scope ytd-grid-video-renderer"><div id="meta" class="style-scope ytd-grid-video-renderer"><h3 class="style-scope ytd-grid-video-renderer"><ytd-badge-supported-renderer class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><a id="video-title" class="yt-simple-endpoint style-scope ytd-grid-video-renderer" aria-label="Building a PC CHEAPER in CHINA?! feat. Strange Parts by Linus Tech Tips 2 years ago 24 minutes 12,423,497 views" title="Building a PC CHEAPER in CHINA?! feat. Strange Parts" href="/watch?v=sZs4NDC4yrI">Building a PC CHEAPER in CHINA?! feat. Strange Parts</a></h3><div id="metadata-container" class="grid style-scope ytd-grid-video-renderer" meta-block=""><div id="metadata" class="style-scope ytd-grid-video-renderer"><div id="byline-container" class="style-scope ytd-grid-video-renderer" hidden=""><ytd-channel-name id="channel-name" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    <div id="container" class="style-scope ytd-channel-name">
+      <div id="text-container" class="style-scope ytd-channel-name">
+        <yt-formatted-string id="text" title="" class="style-scope ytd-channel-name" ellipsis-truncate=""></yt-formatted-string>
+      </div>
+      <paper-tooltip fit-to-visible-bounds="" offset="10" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady-->
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+        
+      
+    </div>
+</paper-tooltip>
+    </div>
+    <ytd-badge-supported-renderer class="style-scope ytd-channel-name"><!--css-build:shady-->
+    
+    
+      <div class="badge badge-style-type-verified style-scope ytd-badge-supported-renderer">
+        <yt-icon class="style-scope ytd-badge-supported-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" style="pointer-events: none; display: block; width: 100%; height: 100%;" class="style-scope yt-icon"><g class="style-scope yt-icon">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10 S17.52,2,12,2z M9.92,17.93l-4.95-4.95l2.05-2.05l2.9,2.9l7.35-7.35l2.05,2.05L9.92,17.93z" class="style-scope yt-icon"></path>
+      </g></svg><!--css-build:shady-->
+    
+    
+  </yt-icon>
+        <span class="style-scope ytd-badge-supported-renderer"></span>
+      </div>
+    <dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat>
+  </ytd-badge-supported-renderer>
+  </ytd-channel-name></div><div id="metadata-line" class="style-scope ytd-grid-video-renderer">
+                  <span class="style-scope ytd-grid-video-renderer">12M views</span>
+                
+                  <span class="style-scope ytd-grid-video-renderer">2 years ago</span>
+                <dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div><div id="additional-metadata-line" class="style-scope ytd-grid-video-renderer"><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div></div><ytd-badge-supported-renderer id="video-badges" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    
+      <div class="badge badge-style-type-simple style-scope ytd-badge-supported-renderer">
+        <yt-icon class="style-scope ytd-badge-supported-renderer" disable-upgrade="" hidden="">
+        </yt-icon>
+        <span class="style-scope ytd-badge-supported-renderer">CC</span>
+      </div>
+    <dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat>
+  </ytd-badge-supported-renderer><div id="menu" class="style-scope ytd-grid-video-renderer"></div></div><div id="buttons" class="style-scope ytd-grid-video-renderer"></div>
+
+
+<div id="dismissed-content" class="style-scope ytd-grid-video-renderer"></div>
+
+
+<ytd-thumbnail use-hovered-property="" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=nDTeSb0TzbQ">
+      <yt-img-shadow ftl-eligible="" class="style-scope ytd-thumbnail no-transition empty" style="background-color: transparent;"><!--css-build:shady--><img id="img" class="style-scope yt-img-shadow" alt="" width="210"></yt-img-shadow>
+      
+      <div id="overlays" class="style-scope ytd-thumbnail"></div>
+      <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+      <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
+    </a>
+  </ytd-thumbnail><div id="details" class="style-scope ytd-grid-video-renderer"><div id="meta" class="style-scope ytd-grid-video-renderer"><h3 class="style-scope ytd-grid-video-renderer"><ytd-badge-supported-renderer class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><a id="video-title" class="yt-simple-endpoint style-scope ytd-grid-video-renderer" aria-label="Arctic Hobby Land Rider 503 RC Firetruck Unboxing &amp; First Look Linus Tech Tips by Linus Tech Tips 8 years ago 7 minutes, 48 seconds 11,161,398 views" title="Arctic Hobby Land Rider 503 RC Firetruck Unboxing &amp; First Look Linus Tech Tips" href="/watch?v=nDTeSb0TzbQ">Arctic Hobby Land Rider 503 RC Firetruck Unboxing &amp; First Look Linus Tech Tips</a></h3><div id="metadata-container" class="grid style-scope ytd-grid-video-renderer" meta-block=""><div id="metadata" class="style-scope ytd-grid-video-renderer"><div id="byline-container" class="style-scope ytd-grid-video-renderer" hidden=""><ytd-channel-name id="channel-name" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    <div id="container" class="style-scope ytd-channel-name">
+      <div id="text-container" class="style-scope ytd-channel-name">
+        <yt-formatted-string id="text" title="" class="style-scope ytd-channel-name" ellipsis-truncate=""></yt-formatted-string>
+      </div>
+      <paper-tooltip fit-to-visible-bounds="" offset="10" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady-->
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+        
+      
+    </div>
+</paper-tooltip>
+    </div>
+    <ytd-badge-supported-renderer class="style-scope ytd-channel-name"><!--css-build:shady-->
+    
+    
+      <div class="badge badge-style-type-verified style-scope ytd-badge-supported-renderer">
+        <yt-icon class="style-scope ytd-badge-supported-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" style="pointer-events: none; display: block; width: 100%; height: 100%;" class="style-scope yt-icon"><g class="style-scope yt-icon">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10 S17.52,2,12,2z M9.92,17.93l-4.95-4.95l2.05-2.05l2.9,2.9l7.35-7.35l2.05,2.05L9.92,17.93z" class="style-scope yt-icon"></path>
+      </g></svg><!--css-build:shady-->
+    
+    
+  </yt-icon>
+        <span class="style-scope ytd-badge-supported-renderer"></span>
+      </div>
+    <dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat>
+  </ytd-badge-supported-renderer>
+  </ytd-channel-name></div><div id="metadata-line" class="style-scope ytd-grid-video-renderer">
+                  <span class="style-scope ytd-grid-video-renderer">11M views</span>
+                
+                  <span class="style-scope ytd-grid-video-renderer">8 years ago</span>
+                <dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div><div id="additional-metadata-line" class="style-scope ytd-grid-video-renderer"><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div></div><ytd-badge-supported-renderer id="video-badges" class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><div id="menu" class="style-scope ytd-grid-video-renderer"></div></div><div id="buttons" class="style-scope ytd-grid-video-renderer"></div>
+
+
+<div id="dismissed-content" class="style-scope ytd-grid-video-renderer"></div>
+
+
+<ytd-thumbnail use-hovered-property="" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=eQ_8F4nzyiw">
+      <yt-img-shadow ftl-eligible="" class="style-scope ytd-thumbnail no-transition empty" style="background-color: transparent;"><!--css-build:shady--><img id="img" class="style-scope yt-img-shadow" alt="" width="210"></yt-img-shadow>
+      
+      <div id="overlays" class="style-scope ytd-thumbnail"></div>
+      <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+      <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
+    </a>
+  </ytd-thumbnail><div id="details" class="style-scope ytd-grid-video-renderer"><div id="meta" class="style-scope ytd-grid-video-renderer"><h3 class="style-scope ytd-grid-video-renderer"><ytd-badge-supported-renderer class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><a id="video-title" class="yt-simple-endpoint style-scope ytd-grid-video-renderer" aria-label="Building a PC... using only Wish.com by Linus Tech Tips 8 months ago 22 minutes 11,223,787 views" title="Building a PC... using only Wish.com" href="/watch?v=eQ_8F4nzyiw">Building a PC... using only Wish.com</a></h3><div id="metadata-container" class="grid style-scope ytd-grid-video-renderer" meta-block=""><div id="metadata" class="style-scope ytd-grid-video-renderer"><div id="byline-container" class="style-scope ytd-grid-video-renderer" hidden=""><ytd-channel-name id="channel-name" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    <div id="container" class="style-scope ytd-channel-name">
+      <div id="text-container" class="style-scope ytd-channel-name">
+        <yt-formatted-string id="text" title="" class="style-scope ytd-channel-name" ellipsis-truncate=""></yt-formatted-string>
+      </div>
+      <paper-tooltip fit-to-visible-bounds="" offset="10" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady-->
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+        
+      
+    </div>
+</paper-tooltip>
+    </div>
+    <ytd-badge-supported-renderer class="style-scope ytd-channel-name"><!--css-build:shady-->
+    
+    
+      <div class="badge badge-style-type-verified style-scope ytd-badge-supported-renderer">
+        <yt-icon class="style-scope ytd-badge-supported-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" style="pointer-events: none; display: block; width: 100%; height: 100%;" class="style-scope yt-icon"><g class="style-scope yt-icon">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10 S17.52,2,12,2z M9.92,17.93l-4.95-4.95l2.05-2.05l2.9,2.9l7.35-7.35l2.05,2.05L9.92,17.93z" class="style-scope yt-icon"></path>
+      </g></svg><!--css-build:shady-->
+    
+    
+  </yt-icon>
+        <span class="style-scope ytd-badge-supported-renderer"></span>
+      </div>
+    <dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat>
+  </ytd-badge-supported-renderer>
+  </ytd-channel-name></div><div id="metadata-line" class="style-scope ytd-grid-video-renderer">
+                  <span class="style-scope ytd-grid-video-renderer">11M views</span>
+                
+                  <span class="style-scope ytd-grid-video-renderer">8 months ago</span>
+                <dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div><div id="additional-metadata-line" class="style-scope ytd-grid-video-renderer"><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div></div><ytd-badge-supported-renderer id="video-badges" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    
+      <div class="badge badge-style-type-simple style-scope ytd-badge-supported-renderer">
+        <yt-icon class="style-scope ytd-badge-supported-renderer" disable-upgrade="" hidden="">
+        </yt-icon>
+        <span class="style-scope ytd-badge-supported-renderer">CC</span>
+      </div>
+    <dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat>
+  </ytd-badge-supported-renderer><div id="menu" class="style-scope ytd-grid-video-renderer"></div></div><div id="buttons" class="style-scope ytd-grid-video-renderer"></div>
+
+
+<div id="dismissed-content" class="style-scope ytd-grid-video-renderer"></div>
+
+
+<ytd-thumbnail use-hovered-property="" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=VWHlPH23P-w">
+      <yt-img-shadow ftl-eligible="" class="style-scope ytd-thumbnail no-transition empty" style="background-color: transparent;"><!--css-build:shady--><img id="img" class="style-scope yt-img-shadow" alt="" width="210"></yt-img-shadow>
+      
+      <div id="overlays" class="style-scope ytd-thumbnail"></div>
+      <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+      <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
+    </a>
+  </ytd-thumbnail><div id="details" class="style-scope ytd-grid-video-renderer"><div id="meta" class="style-scope ytd-grid-video-renderer"><h3 class="style-scope ytd-grid-video-renderer"><ytd-badge-supported-renderer class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><a id="video-title" class="yt-simple-endpoint style-scope ytd-grid-video-renderer" aria-label="Are Walmart Gaming PCs actually THAT bad? by Linus Tech Tips 1 year ago 17 minutes 9,572,283 views" title="Are Walmart Gaming PCs actually THAT bad?" href="/watch?v=VWHlPH23P-w">Are Walmart Gaming PCs actually THAT bad?</a></h3><div id="metadata-container" class="grid style-scope ytd-grid-video-renderer" meta-block=""><div id="metadata" class="style-scope ytd-grid-video-renderer"><div id="byline-container" class="style-scope ytd-grid-video-renderer" hidden=""><ytd-channel-name id="channel-name" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    <div id="container" class="style-scope ytd-channel-name">
+      <div id="text-container" class="style-scope ytd-channel-name">
+        <yt-formatted-string id="text" title="" class="style-scope ytd-channel-name" ellipsis-truncate=""></yt-formatted-string>
+      </div>
+      <paper-tooltip fit-to-visible-bounds="" offset="10" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady-->
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+        
+      
+    </div>
+</paper-tooltip>
+    </div>
+    <ytd-badge-supported-renderer class="style-scope ytd-channel-name"><!--css-build:shady-->
+    
+    
+      <div class="badge badge-style-type-verified style-scope ytd-badge-supported-renderer">
+        <yt-icon class="style-scope ytd-badge-supported-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" style="pointer-events: none; display: block; width: 100%; height: 100%;" class="style-scope yt-icon"><g class="style-scope yt-icon">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10 S17.52,2,12,2z M9.92,17.93l-4.95-4.95l2.05-2.05l2.9,2.9l7.35-7.35l2.05,2.05L9.92,17.93z" class="style-scope yt-icon"></path>
+      </g></svg><!--css-build:shady-->
+    
+    
+  </yt-icon>
+        <span class="style-scope ytd-badge-supported-renderer"></span>
+      </div>
+    <dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat>
+  </ytd-badge-supported-renderer>
+  </ytd-channel-name></div><div id="metadata-line" class="style-scope ytd-grid-video-renderer">
+                  <span class="style-scope ytd-grid-video-renderer">9.5M views</span>
+                
+                  <span class="style-scope ytd-grid-video-renderer">1 year ago</span>
+                <dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div><div id="additional-metadata-line" class="style-scope ytd-grid-video-renderer"><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div></div><ytd-badge-supported-renderer id="video-badges" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    
+      <div class="badge badge-style-type-simple style-scope ytd-badge-supported-renderer">
+        <yt-icon class="style-scope ytd-badge-supported-renderer" disable-upgrade="" hidden="">
+        </yt-icon>
+        <span class="style-scope ytd-badge-supported-renderer">CC</span>
+      </div>
+    <dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat>
+  </ytd-badge-supported-renderer><div id="menu" class="style-scope ytd-grid-video-renderer"></div></div><div id="buttons" class="style-scope ytd-grid-video-renderer"></div>
+
+
+<div id="dismissed-content" class="style-scope ytd-grid-video-renderer"></div>
+
+
+<ytd-thumbnail use-hovered-property="" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=kqnvrjgyEMc">
+      <yt-img-shadow ftl-eligible="" class="style-scope ytd-thumbnail no-transition empty" style="background-color: transparent;"><!--css-build:shady--><img id="img" class="style-scope yt-img-shadow" alt="" width="210"></yt-img-shadow>
+      
+      <div id="overlays" class="style-scope ytd-thumbnail"></div>
+      <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+      <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
+    </a>
+  </ytd-thumbnail><div id="details" class="style-scope ytd-grid-video-renderer"><div id="meta" class="style-scope ytd-grid-video-renderer"><h3 class="style-scope ytd-grid-video-renderer"><ytd-badge-supported-renderer class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><a id="video-title" class="yt-simple-endpoint style-scope ytd-grid-video-renderer" aria-label="Faster Internet for FREE in 30 seconds - No... Seriously by Linus Tech Tips 2 years ago 8 minutes, 43 seconds 9,535,911 views" title="Faster Internet for FREE in 30 seconds - No... Seriously" href="/watch?v=kqnvrjgyEMc">Faster Internet for FREE in 30 seconds - No... Seriously</a></h3><div id="metadata-container" class="grid style-scope ytd-grid-video-renderer" meta-block=""><div id="metadata" class="style-scope ytd-grid-video-renderer"><div id="byline-container" class="style-scope ytd-grid-video-renderer" hidden=""><ytd-channel-name id="channel-name" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    <div id="container" class="style-scope ytd-channel-name">
+      <div id="text-container" class="style-scope ytd-channel-name">
+        <yt-formatted-string id="text" title="" class="style-scope ytd-channel-name" ellipsis-truncate=""></yt-formatted-string>
+      </div>
+      <paper-tooltip fit-to-visible-bounds="" offset="10" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady-->
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+        
+      
+    </div>
+</paper-tooltip>
+    </div>
+    <ytd-badge-supported-renderer class="style-scope ytd-channel-name"><!--css-build:shady-->
+    
+    
+      <div class="badge badge-style-type-verified style-scope ytd-badge-supported-renderer">
+        <yt-icon class="style-scope ytd-badge-supported-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" style="pointer-events: none; display: block; width: 100%; height: 100%;" class="style-scope yt-icon"><g class="style-scope yt-icon">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10 S17.52,2,12,2z M9.92,17.93l-4.95-4.95l2.05-2.05l2.9,2.9l7.35-7.35l2.05,2.05L9.92,17.93z" class="style-scope yt-icon"></path>
+      </g></svg><!--css-build:shady-->
+    
+    
+  </yt-icon>
+        <span class="style-scope ytd-badge-supported-renderer"></span>
+      </div>
+    <dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat>
+  </ytd-badge-supported-renderer>
+  </ytd-channel-name></div><div id="metadata-line" class="style-scope ytd-grid-video-renderer">
+                  <span class="style-scope ytd-grid-video-renderer">9.5M views</span>
+                
+                  <span class="style-scope ytd-grid-video-renderer">2 years ago</span>
+                <dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div><div id="additional-metadata-line" class="style-scope ytd-grid-video-renderer"><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div></div><ytd-badge-supported-renderer id="video-badges" class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><div id="menu" class="style-scope ytd-grid-video-renderer"></div></div><div id="buttons" class="style-scope ytd-grid-video-renderer"></div>
+
+
+<div id="dismissed-content" class="style-scope ytd-grid-video-renderer"></div>
+
+
+<ytd-thumbnail use-hovered-property="" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=Toft6fMvByA">
+      <yt-img-shadow ftl-eligible="" class="style-scope ytd-thumbnail no-transition empty" style="background-color: transparent;"><!--css-build:shady--><img id="img" class="style-scope yt-img-shadow" alt="" width="210"></yt-img-shadow>
+      
+      <div id="overlays" class="style-scope ytd-thumbnail"></div>
+      <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+      <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
+    </a>
+  </ytd-thumbnail><div id="details" class="style-scope ytd-grid-video-renderer"><div id="meta" class="style-scope ytd-grid-video-renderer"><h3 class="style-scope ytd-grid-video-renderer"><ytd-badge-supported-renderer class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><a id="video-title" class="yt-simple-endpoint style-scope ytd-grid-video-renderer" aria-label="GAMING at 16K RESOLUTION?? – HOLY $H!T by Linus Tech Tips 2 years ago 17 minutes 9,344,319 views" title="GAMING at 16K RESOLUTION?? – HOLY $H!T" href="/watch?v=Toft6fMvByA">GAMING at 16K RESOLUTION?? – HOLY $H!T</a></h3><div id="metadata-container" class="grid style-scope ytd-grid-video-renderer" meta-block=""><div id="metadata" class="style-scope ytd-grid-video-renderer"><div id="byline-container" class="style-scope ytd-grid-video-renderer" hidden=""><ytd-channel-name id="channel-name" class="style-scope ytd-grid-video-renderer"><!--css-build:shady-->
+    
+    <div id="container" class="style-scope ytd-channel-name">
+      <div id="text-container" class="style-scope ytd-channel-name">
+        <yt-formatted-string id="text" title="" class="style-scope ytd-channel-name" ellipsis-truncate=""></yt-formatted-string>
+      </div>
+      <paper-tooltip fit-to-visible-bounds="" offset="10" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady-->
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+        
+      
+    </div>
+</paper-tooltip>
+    </div>
+    <ytd-badge-supported-renderer class="style-scope ytd-channel-name"><!--css-build:shady-->
+    
+    
+      <div class="badge badge-style-type-verified style-scope ytd-badge-supported-renderer">
+        <yt-icon class="style-scope ytd-badge-supported-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" style="pointer-events: none; display: block; width: 100%; height: 100%;" class="style-scope yt-icon"><g class="style-scope yt-icon">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10 S17.52,2,12,2z M9.92,17.93l-4.95-4.95l2.05-2.05l2.9,2.9l7.35-7.35l2.05,2.05L9.92,17.93z" class="style-scope yt-icon"></path>
+      </g></svg><!--css-build:shady-->
+    
+    
+  </yt-icon>
+        <span class="style-scope ytd-badge-supported-renderer"></span>
+      </div>
+    <dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat>
+  </ytd-badge-supported-renderer>
+  </ytd-channel-name></div><div id="metadata-line" class="style-scope ytd-grid-video-renderer">
+                  <span class="style-scope ytd-grid-video-renderer">9.3M views</span>
+                
+                  <span class="style-scope ytd-grid-video-renderer">2 years ago</span>
+                <dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div><div id="additional-metadata-line" class="style-scope ytd-grid-video-renderer"><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div></div><ytd-badge-supported-renderer id="video-badges" class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><div id="menu" class="style-scope ytd-grid-video-renderer"></div></div><div id="buttons" class="style-scope ytd-grid-video-renderer"></div>
+
+
+<div id="dismissed-content" class="style-scope ytd-grid-video-renderer"></div>
+
+
