@@ -466,3 +466,125 @@ IPDL protocol error: Handler returned error code!
 1592793405428	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilei5CIqA"
 1592793409309	Marionette	INFO	Listening on port 35733
 1592793409354	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592858435192	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVOkv86"
+1592858437175	Marionette	INFO	Listening on port 46749
+1592858437219	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592859254304	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileA2GJe1"
+1592859366197	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegrMFtZ"
+Exiting due to channel error.
+1592863241133	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegi5Xsc"
+1592863243140	Marionette	INFO	Listening on port 43117
+1592863243270	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1592863324572	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCFmBXa"
+1592863326527	Marionette	INFO	Listening on port 43535
+1592863326580	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1592866624288	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAu2KkR"
+1592866626274	Marionette	INFO	Listening on port 34375
+1592866626322	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:944:5\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new Error("Protocol error (unknownError): node is null from: server0.conn0.child2/pagestyle25", "resource://devtools/shared/protocol/Front.js", 319))
+console.error: "Error while calling actor 'pagestyle's method 'getUsedFontFaces'" "node is null"
+console.error: "getUsedFontFaces@resource://devtools/server/actors/styles.js:384:24\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Could not get the list of font families" (new Error("Protocol error (unknownError): node is null from: server0.conn0.child2/pagestyle25", "resource://devtools/shared/protocol/Front.js", 319))
+[Child 41548, MediaDecoderStateMachine #1] WARNING: Decoder=7ff11de94800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[Child 41548, MediaDecoderStateMachine #1] WARNING: Decoder=7ff11de94800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[Child 41548, MediaDecoderStateMachine #1] WARNING: Decoder=7ff11de94800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[Child 41548, MediaDecoderStateMachine #1] WARNING: Decoder=7ff11de94800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[Child 41548, MediaDecoderStateMachine #1] WARNING: Decoder=7ff11de94800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[Child 41548, MediaDecoderStateMachine #1] WARNING: Decoder=7ff11de94800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[Child 41548, MediaDecoderStateMachine #1] WARNING: Decoder=7ff11de94800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[Child 41548, MediaDecoderStateMachine #1] WARNING: Decoder=7ff11de94800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2247))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:395:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2247))
+1592867201117	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegb5iKo"
+1592867203146	Marionette	INFO	Listening on port 34069
+1592867203235	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592867304049	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezN64C4"
+1592867306248	Marionette	INFO	Listening on port 34823
+1592867306263	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592867385110	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuGmSMB"
+1592867387307	Marionette	INFO	Listening on port 35935
+1592867387321	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1592867414178	Marionette	INFO	Stopped listening on port 34823
+1592867416184	Marionette	INFO	Stopped listening on port 34069
+1592867605432	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUkTG33"
+1592867607399	Marionette	INFO	Listening on port 45759
+1592867607446	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 48342, MediaDecoderStateMachine #1] WARNING: Decoder=7f72c25d7000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[Child 48342, MediaDecoderStateMachine #1] WARNING: Decoder=7f72c25d7000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[Child 48342, MediaDecoderStateMachine #1] WARNING: Decoder=7f72c25d7000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[Child 48342, MediaDecoderStateMachine #1] WARNING: Decoder=7f72c25d7000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[Child 48342, MediaDecoderStateMachine #1] WARNING: Decoder=7f72c25d7000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[Child 48342, MediaDecoderStateMachine #1] WARNING: Decoder=7f72c25d7000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[Child 48342, MediaDecoderStateMachine #1] WARNING: Decoder=7f72c25d7000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[Child 48342, MediaDecoderStateMachine #1] WARNING: Decoder=7f72c25d7000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[Child 48342, MediaDecoderStateMachine #1] WARNING: Decoder=7f72c25d7000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[Child 48342, MediaDecoderStateMachine #1] WARNING: Decoder=7f72c25d7000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.

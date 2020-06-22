@@ -1,33 +1,81 @@
 from bs4 import BeautifulSoup
-import requests
+
 from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+
+import requests
 import time
+import sqlite3
 
+class Youtube:
+    
+    def getChannelAndMostRecent(self):
+        conn = sqlite3.connect("./youtube.db")
+        c = conn.cursor()
+        c.execute("SELECT channelId, mostRecentId FROM subs")
 
-driver = webdriver.Firefox() 
-channel = "https://www.youtube.com/channel/"
-linus = "UCXuqSBlHAE6Xw-yeJA0Tunw"
-driver.get(channel + linus)
-elements = driver.find_elements_by_xpath("//paper-tab/div")
-# element.click()
-for el in elements:
-    if "Videos" in el.get_attribute("innerHTML"):
-        el.click()
-        break
-time.sleep(3)
-elements = driver.find_elements_by_xpath("//ytd-grid-video-renderer/div")
+        subInfo = {sub[0]: sub[1] for sub in c.fetchall()}
 
-# anchor = elements[0].find_elements_by_tag_name("a")
-# videoId = anchor[0].get_attribute("href")
+        conn.commit()
+        conn.close()
 
-for el in elements:
-    anchors = el.find_elements_by_tag_name("a")
-    if len(anchors) == 0: continue
-    videoId = anchors[0].get_attribute("href").split("=")[-1]
-    print(videoId)
-    # print(el.get_attribute("innerHTML"))
-    # print("\n")
+        return subInfo
 
-# ytd-grid-video-renderer
-# [contains(text(),'Videos')]
-# /html/body/ytd-app/div/ytd-page-manager/ytd-browse/div[3]/ytd-c4-tabbed-header-renderer/app-header-layout/div/app-header/div[2]/app-toolbar/div/div/paper-tabs/div/div/paper-tab[2]/div
+    def getNewVideosForSub(self, driver, channelId, recentVideo):
+
+        channel = "https://www.youtube.com/channel/"
+        driver.get(channel + channelId)
+
+        # Nav to video tab
+        elements = driver.find_elements_by_xpath("//paper-tab/div")
+        for el in elements:
+            if "Videos" in el.get_attribute("innerHTML"):
+                el.click()
+                break
+
+        # Wait for videos to load
+        WebDriverWait(driver, 10).until( EC.presence_of_element_located((By.TAG_NAME, "ytd-channel-sub-menu-renderer")))
+
+        # Get all the uploaded videos. Iterate through them until we find the previous most recent vide
+        newVideos = []
+        elements = driver.find_elements_by_xpath("//ytd-grid-video-renderer/div")
+        for el in elements:
+            try:
+                anchors = el.find_elements_by_tag_name("a")
+            except:
+                print(el)
+
+            if len(anchors) == 0: continue
+
+            videoId = anchors[0].get_attribute("href").split("=")[-1]
+            
+            if recentVideo == videoId:
+                return newVideos
+            
+            newVideos.append(videoId)
+           
+
+    def postInDiscord(self, newVideos, channelId):
+        # Do stuff
+        return
+
+    def updateMostRecent(self, newVideo, channelId): 
+        # Do stuff
+        return
+
+    def run(self):
+        while True:
+            driver = webdriver.Firefox() 
+            subInfo = self.getChannelAndMostRecent()
+            for subId in subInfo:
+                newVideos = self.getNewVideosForSub(driver, subId, "")
+                if len(newVideos) > 0:
+                    self.postInDiscord(newVideos, sub)
+            time.sleep(7200)
+
+if __name__ == "__main__":
+    yt = Youtube()
+    yt.run()
+
