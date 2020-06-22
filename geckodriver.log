@@ -341,3 +341,128 @@ _focusBlurHandler@https://www.youtube.com/yts/jsbin/desktop_polymer_inlined_html
 JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
 JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
 JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1592786218547	Marionette	INFO	Stopped listening on port 44435
+Gdk-Message: 20:11:01.170: firefox: Fatal IO error 0 (Success) on X server :0.
+
+1592790754113	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNGjYHz"
+1592790758230	Marionette	INFO	Listening on port 43409
+1592790758341	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: javascript: (function(){document.open();document.domain="295392ff7fd690add8f20bfb7df2aa25.safeframe.googlesyndication.com";document.write('%3Chtml%3E%3Chead%3E%3Cscript%20type%3D%22text%2Fjavascript%22%3E(function()%7Btry%7Bwindow.%24dv%3Dwindow.%24dvbs%7C%7Cparent.%24dvbs%2Cwindow.%24dv.dvObjType%3D%22dvbs%22%7Dcatch(f)%7B%7D%7D)()%3B%3C%2Fscript%3E%3C%2Fhead%3E%3Cbody%3E%3Cscript%20type%3D%22text%2Fjavascript%22%3E(function(a)%7Bwindow.%24frmId%3DMath.random().toString(36)%2BMath.random().toString(36)%3Bfor(var%20b%3D%5B%7Bsrc%3A%22dv-match%22%2Cmain%3A6%7D%5D%2Cd%3D0%3Bd%3Cb.length%3Bd%2B%2B)%7Bvar%20f%3Db%5Bd%5D%2Ce%3Df.eval%26%26f.rate%26%26100*Math.random()%3Cf.rate%3Ff.eval%3Af.main%2Cg%3Ddocument.createElement(%22script%22)%3Bg.src%3D%22%2F%2F%22%2Ba%2B%22%2F%22%2Bf.src%2Be%2B%22.js%22%3Bg.async%3D!0%3Bdocument.body.appendChild(g)%7D%7D)(%22cdn.doubleverify.com%22)%3B%3C%2Fscript%3E%3Cscript%20type%3D%22text%2Fjavascript%22%3EsetTimeout(function()%20%7Bdocument.close()%3B%7D%2C%200)%3B%3C%2Fscript%3E%3C%2Fbody%3E%3C%2Fhtml%3E');})(), line 1: SecurityError: The operation is insecure.
+JavaScript error: javascript: (function(){document.open();document.domain="295392ff7fd690add8f20bfb7df2aa25.safeframe.googlesyndication.com";document.write('%3Chtml%3E%3Chead%3E%3Cscript%20type%3D%22text%2Fjavascript%22%3E(function()%7Btry%7Bwindow.%24dv%3Dwindow.%24dvbs%7C%7Cparent.%24dvbs%2Cwindow.%24dv.dvObjType%3D%22dvbs%22%7Dcatch(f)%7B%7D%7D)()%3B%3C%2Fscript%3E%3C%2Fhead%3E%3Cbody%3E%3Cscript%20type%3D%22text%2Fjavascript%22%3E(function(a)%7Bwindow.%24frmId%3DMath.random().toString(36)%2BMath.random().toString(36)%3Bfor(var%20b%3D%5B%7Bsrc%3A%22dv-match%22%2Cmain%3A6%7D%5D%2Cd%3D0%3Bd%3Cb.length%3Bd%2B%2B)%7Bvar%20f%3Db%5Bd%5D%2Ce%3Df.eval%26%26f.rate%26%26100*Math.random()%3Cf.rate%3Ff.eval%3Af.main%2Cg%3Ddocument.createElement(%22script%22)%3Bg.src%3D%22%2F%2F%22%2Ba%2B%22%2F%22%2Bf.src%2Be%2B%22.js%22%3Bg.async%3D!0%3Bdocument.body.appendChild(g)%7D%7D)(%22cdn.doubleverify.com%22)%3B%3C%2Fscript%3E%3Cscript%20type%3D%22text%2Fjavascript%22%3EsetTimeout(function()%20%7Bdocument.close()%3B%7D%2C%200)%3B%3C%2Fscript%3E%3C%2Fbody%3E%3C%2Fhtml%3E');})(), line 1: SecurityError: The operation is insecure.
+1592790937223	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileY2vEQq"
+1592790941061	Marionette	INFO	Listening on port 45027
+1592790941138	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592791001575	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3EeQG0"
+1592791005949	Marionette	INFO	Listening on port 34635
+1592791005995	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 3745, MediaDecoderStateMachine #1] WARNING: Decoder=7fd960c33400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[Child 3745, MediaDecoderStateMachine #1] WARNING: Decoder=7fd960c33400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+JavaScript warning: https://www.youtube.com/yts/jsbin/webcomponents-sd-vfll5iksz/webcomponents-sd.js, line 33: Script terminated by timeout at:
+rb@https://www.youtube.com/yts/jsbin/webcomponents-sd-vfll5iksz/webcomponents-sd.js:33:435
+sb@https://www.youtube.com/yts/jsbin/webcomponents-sd-vfll5iksz/webcomponents-sd.js:34:167
+yb/<@https://www.youtube.com/yts/jsbin/webcomponents-sd-vfll5iksz/webcomponents-sd.js:40:103
+
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1592791135891	Marionette	INFO	Stopped listening on port 34635
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1592791141122	Marionette	INFO	Stopped listening on port 45027
+1592791358518	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledXp1rG"
+1592791362544	Marionette	INFO	Listening on port 40075
+1592791362637	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1592791715696	Marionette	INFO	Stopped listening on port 40075
+1592791723000	Marionette	INFO	Stopped listening on port 43409
+1592792095491	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLuQWfp"
+1592792099179	Marionette	INFO	Listening on port 34855
+1592792099209	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1592792134890	Marionette	INFO	Stopped listening on port 34855
+1592792213175	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileq7GFZU"
+1592792217120	Marionette	INFO	Listening on port 42251
+1592792217193	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592792336110	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKouC3W"
+1592792340172	Marionette	INFO	Listening on port 46581
+1592792340226	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 6248, MediaDecoderStateMachine #1] WARNING: Decoder=7f988aa6a000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[Child 6248, MediaDecoderStateMachine #1] WARNING: Decoder=7f988aa6a000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1592792434124	Marionette	INFO	Stopped listening on port 46581
+1592792503674	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZBO1Xh"
+1592792507970	Marionette	INFO	Listening on port 34063
+1592792508031	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1592792557783	Marionette	INFO	Stopped listening on port 34063
+1592792587187	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileu5k4wR"
+1592792591475	Marionette	INFO	Listening on port 39903
+1592792591514	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592792631830	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile04lXvf"
+1592792636202	Marionette	INFO	Listening on port 35705
+1592792636252	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 7399, MediaDecoderStateMachine #1] WARNING: Decoder=7f6de6834c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1592792724532	Marionette	INFO	Stopped listening on port 35705
+1592793074811	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVpZqYq"
+1592793078701	Marionette	INFO	Listening on port 34001
+1592793078739	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592793208491	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelnvF7x"
+1592793212564	Marionette	INFO	Listening on port 34751
+1592793212608	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 8361, MediaDecoderStateMachine #1] WARNING: Decoder=7f6feb765800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[Child 8361, MediaDecoderStateMachine #1] WARNING: Decoder=7f6feb765800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+1592793249946	Marionette	INFO	Stopped listening on port 42251
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1592793251748	Marionette	INFO	Stopped listening on port 39903
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1592793253620	Marionette	INFO	Stopped listening on port 34001
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1592793365765	Marionette	INFO	Stopped listening on port 34751
+1592793405428	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilei5CIqA"
+1592793409309	Marionette	INFO	Listening on port 35733
+1592793409354	Marionette	WARN	TLS certificate errors will be ignored for this session

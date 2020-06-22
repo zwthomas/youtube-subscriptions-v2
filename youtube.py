@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
 from selenium import webdriver
+import time
 
 
 driver = webdriver.Firefox() 
@@ -13,11 +14,19 @@ for el in elements:
     if "Videos" in el.get_attribute("innerHTML"):
         el.click()
         break
+time.sleep(3)
 elements = driver.find_elements_by_xpath("//ytd-grid-video-renderer/div")
 
+# anchor = elements[0].find_elements_by_tag_name("a")
+# videoId = anchor[0].get_attribute("href")
+
 for el in elements:
-    print(el.get_attribute("innerHTML"))
-    print("\n")
+    anchors = el.find_elements_by_tag_name("a")
+    if len(anchors) == 0: continue
+    videoId = anchors[0].get_attribute("href").split("=")[-1]
+    print(videoId)
+    # print(el.get_attribute("innerHTML"))
+    # print("\n")
 
 # ytd-grid-video-renderer
 # [contains(text(),'Videos')]
