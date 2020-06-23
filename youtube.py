@@ -6,13 +6,22 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 import requests
+import json
 import time
 import sqlite3
+import configparser
 
 class Youtube:
+
+    dpPath = "./youtube.db"
+    configPath = "./youtube.ini"
+
+    def __init__(self):
+        self.config = configparser.ConfigParser()
+        self.config.read(self.configPath)
     
     def getChannelAndMostRecent(self):
-        conn = sqlite3.connect("./youtube.db")
+        conn = sqlite3.connect(self.dpPath)
         c = conn.cursor()
         c.execute("SELECT channelId, mostRecentId FROM subs")
 
@@ -37,7 +46,7 @@ class Youtube:
 
         # Wait for videos to load
         WebDriverWait(driver, 10).until( EC.presence_of_element_located((By.TAG_NAME, "ytd-channel-sub-menu-renderer")))
-
+        time.sleep(1)
         # Get all the uploaded videos. Iterate through them until we find the previous most recent vide
         newVideos = []
         elements = driver.find_elements_by_xpath("//ytd-grid-video-renderer/div")
@@ -50,20 +59,44 @@ class Youtube:
             if len(anchors) == 0: continue
 
             videoId = anchors[0].get_attribute("href").split("=")[-1]
-            
+            print("https://www.youtube.com/watch?v=" + videoId)
             if recentVideo == videoId:
                 return newVideos
             
             newVideos.append(videoId)
+        return newVideos
            
 
     def postInDiscord(self, newVideos, channelId):
-        # Do stuff
-        return
+        # self.updateMostRecent(newVideos[0], channelId)
+
+        conn = sqlite3.connect("./youtube.db")
+        c = conn.cursor()
+
+        c.execute("SELECT category FROM subs WHERE channelId=?", (channelId,))
+        category = c.fetchone()
+        if len(category[0]) == 0: return
+        url = self.config["youtube"][category[0]]
+
+        for video in newVideos[::-1]:
+            data = {}
+            data["content"] = "https://www.youtube.com/watch?v=" + video
+            data["username"] = "YoutubeBot"
+
+            result = requests.post(url, data=json.dumps(data), headers={
+                                "Content-Type": "application/json"})
+        
+        conn.commit()
+        conn.close()
 
     def updateMostRecent(self, newVideo, channelId): 
-        # Do stuff
-        return
+        conn = sqlite3.connect("./youtube.db")
+        c = conn.cursor()
+
+        c.execute("UPDATE subs SET mostRecentId=? WHERE channelId=?", (newVideo, channelId))
+
+        conn.commit()
+        conn.close()
 
     def run(self):
         while True:
@@ -72,7 +105,11 @@ class Youtube:
             for subId in subInfo:
                 newVideos = self.getNewVideosForSub(driver, subId, "")
                 if len(newVideos) > 0:
-                    self.postInDiscord(newVideos, sub)
+                    self.postInDiscord(newVideos, subId)
+                #########
+                # Remove
+                #########
+                return
             time.sleep(7200)
 
 if __name__ == "__main__":
