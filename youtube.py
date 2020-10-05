@@ -94,7 +94,7 @@ class Youtube:
            
 
     def postInDiscord(self, newVideos, channelId):
-        # self.updateMostRecent(newVideos[0], channelId)
+        self.updateMostRecent(newVideos[0], channelId)
 
         conn = sqlite3.connect("./youtube.db")
         c = conn.cursor()
@@ -145,6 +145,8 @@ class Youtube:
                 newVideos = self.getNewVideosForSub(driver, subId, "")
                 if len(newVideos) > 0:
                     self.postInDiscord(newVideos, subId)
+            driver.close() 
+            driver.quit()
             time.sleep(7200)
 
 if __name__ == "__main__":
