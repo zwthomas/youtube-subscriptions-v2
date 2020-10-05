@@ -11,17 +11,38 @@ import json
 import time
 import sqlite3
 import configparser
+import hvac
 
 class Youtube:
 
-    
+    links = {}
 
     dpPath = "./youtube.db"
     configPath = "./youtube.ini"
 
     def __init__(self):
-        self.config = configparser.ConfigParser()
-        self.config.read(self.configPath)
+        # self.config = configparser.ConfigParser()
+        # self.config.read(self.configPath)
+        vaultClient = hvac.Client(
+            url="http://192.168.73.20:8200",
+            token="s.tLWbbS9mBlEcDedkystiYG8P"
+        )
+        conn = sqlite3.connect(self.dpPath)
+        c = conn.cursor()
+        c.execute("SELECT category FROM subs")
+
+        category = []
+        for cat in c.fetchall():
+            if cat[0] not in category and len(cat[0]) > 1:
+                category.append(cat[0])
+
+
+        for cat in category:
+            self.links[cat] = vaultClient.secrets.kv.read_secret_version(path="youtube")["data"]["data"][cat]
+        
+        conn.commit()
+        conn.close()
+
     
     def getChannelAndMostRecent(self):
         conn = sqlite3.connect(self.dpPath)
