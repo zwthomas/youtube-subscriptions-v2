@@ -6,12 +6,15 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.chrome.options import Options
 
+from datetime import datetime
+
 import requests
 import json
 import time
 import sqlite3
 import configparser
 import hvac
+import logging
 
 class Youtube:
 
@@ -23,6 +26,12 @@ class Youtube:
     def __init__(self):
         # self.config = configparser.ConfigParser()
         # self.config.read(self.configPath)
+        logging.basicConfig()
+        self.logger = logging.getLogger(__name__)
+        self.logger.setLevel(logging.DEBUG)
+
+        self.logger.info("Application Starting")
+
         vaultClient = hvac.Client(
             url="http://192.168.73.20:8200",
             token="s.tLWbbS9mBlEcDedkystiYG8P"
@@ -80,12 +89,12 @@ class Youtube:
             try:
                 anchors = el.find_elements_by_tag_name("a")
             except:
-                print(el)
+                self.logger.error(el)
 
             if len(anchors) == 0: continue
 
             videoId = anchors[0].get_attribute("href").split("=")[-1]
-            print("https://www.youtube.com/watch?v=" + videoId)
+            # print("https://www.youtube.com/watch?v=" + videoId)
             if recentVideo == videoId:
                 return newVideos
             
@@ -94,6 +103,7 @@ class Youtube:
            
 
     def postInDiscord(self, newVideos, channelId):
+        self.logger.info("Posting videos")
         self.updateMostRecent(newVideos[0], channelId)
 
         conn = sqlite3.connect("./youtube.db")
@@ -128,6 +138,7 @@ class Youtube:
 
     def run(self):
         while True:
+            self.logger.info("Starting: " + str(datetime.now()))
             # options = Options()
             # options.headless = True
             chrome_options = Options()
@@ -142,11 +153,14 @@ class Youtube:
             driver  = webdriver.Chrome(options=chrome_options)
             subInfo = self.getChannelAndMostRecent()
             for subId in subInfo:
-                newVideos = self.getNewVideosForSub(driver, subId, "")
+                self.logger.info("Finding new videos for: " + subId)
+                newVideos = self.getNewVideosForSub(driver, subId, subInfo[subId])
                 if len(newVideos) > 0:
                     self.postInDiscord(newVideos, subId)
+                break
             driver.close() 
             driver.quit()
+            self.logger.info("Sleeping: " + str(datetime.now()))
             time.sleep(7200)
 
 if __name__ == "__main__":
