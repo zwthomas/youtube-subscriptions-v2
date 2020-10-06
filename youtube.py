@@ -157,7 +157,6 @@ class Youtube:
                 newVideos = self.getNewVideosForSub(driver, subId, subInfo[subId])
                 if len(newVideos) > 0:
                     self.postInDiscord(newVideos, subId)
-                break
             driver.close() 
             driver.quit()
             self.logger.info("Sleeping: " + str(datetime.now()))
