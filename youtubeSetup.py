@@ -16,6 +16,7 @@ from selenium.webdriver.common.keys import Keys
 class YoutubeSetup():
     
     URL = "https://www.youtube.com/channel/{}/channels"
+    SUB_URL = "https://www.youtube.com"
 
     def __init__(self):
         logging.basicConfig()
@@ -53,15 +54,9 @@ class YoutubeSetup():
         # driver.findElement(By.cssSelector("body")).sendKeys(Keys.CONTROL, Keys.END);
         WebDriverWait(driver, 10).until( EC.presence_of_element_located((By.ID, "channel")))
         self.loadAllSubs(driver)
-        links = self.getChannelLinks(driver)
-        print(links)
-        # channels = driver.find_elements_by_id("channel")
-        # for channel in channels:
-        #     soup = BeautifulSoup(channel.get_attribute("innerHTML"), 'html.parser')
-        #     channelLink = soup.find("a")["href"]
-            
-        #     print(channelLink)
-
+        channelInfo = self.getChannelLinks(driver)
+        mostRecent = self.getMostRecentVideo(driver, channelInfo)
+        print(mostRecent)
 
     def loadAllSubs(self, driver):
         self.logger.info("Loading All Subs")
@@ -73,16 +68,47 @@ class YoutubeSetup():
             driver.find_element_by_css_selector("body").send_keys(Keys.CONTROL, Keys.END)
             time.sleep(2)
             numChannels = len(driver.find_elements_by_id("channel"))
+    
     def getChannelLinks(self, driver):
-        links = []
+        channelInfo = {}
         channels = driver.find_elements_by_id("channel")
         for channel in channels:
             soup = BeautifulSoup(channel.get_attribute("innerHTML"), 'html.parser')
             channelLink = soup.find("a")["href"]
             name = soup.find("span", {"id":"title"}).contents[0]
-            print(name)
-            links.append(channelLink)
-        return links
+            channelInfo[name] = channelLink
+        return channelInfo
+    
+    def getMostRecentVideo(self, driver, channelInfo):
+        mostRecent = {}
+        for channel in channelInfo:
+            driver.get(self.SUB_URL + channelInfo[channel])
+            # Nav to video tab
+            WebDriverWait(driver, 10).until( EC.presence_of_element_located((By.XPATH, "//paper-tab/div")))
+
+            elements = driver.find_elements_by_xpath("//paper-tab/div")
+            for el in elements:
+                if "Videos" in el.get_attribute("innerHTML"):
+                    el.click()
+                    break
+            
+            
+            # Wait for videos to load
+            WebDriverWait(driver, 10).until( EC.presence_of_element_located((By.TAG_NAME, "ytd-channel-sub-menu-renderer")))
+            time.sleep(1)
+            # Get all the uploaded videos. Iterate through them until we find the previous most recent vide
+            
+            elements = driver.find_elements_by_xpath("//ytd-grid-video-renderer/div")
+            try:
+                anchors = elements[0].find_elements_by_tag_name("a")
+            except:
+                self.logger.error(elements[0])
+
+
+            videoId = anchors[0].get_attribute("href").split("=")[-1]
+            mostRecent[channel] = videoId
+        return mostRecent
+            
 
 if __name__ == "__main__":
     ytSetup = YoutubeSetup()
