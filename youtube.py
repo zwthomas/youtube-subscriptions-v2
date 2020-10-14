@@ -15,6 +15,8 @@ import sqlite3
 import configparser
 import hvac
 import logging
+import pymongo
+
 
 class Youtube:
 
@@ -36,34 +38,36 @@ class Youtube:
             url="http://192.168.73.20:8200",
             token="s.tLWbbS9mBlEcDedkystiYG8P"
         )
-        conn = sqlite3.connect(self.dpPath)
-        c = conn.cursor()
-        c.execute("SELECT category FROM subs")
 
-        category = []
-        for cat in c.fetchall():
-            if cat[0] not in category and len(cat[0]) > 1:
-                category.append(cat[0])
+        self.channel = vaultClient.secrets.kv.read_secret_version(path="youtube")["data"]["data"]["channel"]
+        username = vaultClient.secrets.kv.read_secret_version(path="youtube")["data"]["data"]["db-username"]
+        password = vaultClient.secrets.kv.read_secret_version(path="youtube")["data"]["data"]["db-password"]
 
+        client = pymongo.MongoClient(
+            "mongodb://192.168.73.20:27017",
+            username = username,
+            password = password
+        )
+        nestDB = client["nestdb"]
+        self.youtubeDB = nestDB["youtube"]
 
-        for cat in category:
-            self.links[cat] = vaultClient.secrets.kv.read_secret_version(path="youtube")["data"]["data"][cat]
-        
-        conn.commit()
-        conn.close()
+        response = self.youtubeDB.find({}, {"_id":0, "category":1})
+
+        category = {cat["category"] for cat in response if len(cat["category"]) > 1}
+        self.links = { cat:vaultClient.secrets.kv.read_secret_version(path="youtube")["data"]["data"][cat] for cat in category}
 
     
     def getChannelAndMostRecent(self):
-        conn = sqlite3.connect(self.dpPath)
-        c = conn.cursor()
-        c.execute("SELECT channelId, mostRecentId FROM subs")
+        response = self.youtubeDB.find({},{"_id":0, "channelName":1, "mostRecentId":1})
+        data = {channel["channelName"]:channel["mostRecentId"] for channel in response}
+        print(data)
+        input()
+        # subInfo = {sub[0]: sub[1] for sub in c.fetchall()}
 
-        subInfo = {sub[0]: sub[1] for sub in c.fetchall()}
+        # conn.commit()
+        # conn.close()
 
-        conn.commit()
-        conn.close()
-
-        return subInfo
+        # return subInfo
 
     def getNewVideosForSub(self, driver, channelId, recentVideo):
 

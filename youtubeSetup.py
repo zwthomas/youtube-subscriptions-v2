@@ -102,42 +102,6 @@ class YoutubeSetup():
             name = soup.find("span", {"id":"title"}).contents[0]
             channelInfo[name] = channelLink
         return channelInfo
-
-    # def getMostRecentVid(self, driver, channelId, recentVideo):
-
-    #     channel = "https://www.youtube.com/channel/"
-    #     driver.get(channel + channelId)
-
-    #     # Nav to video tab
-    #     WebDriverWait(driver, 10).until( EC.presence_of_element_located((By.XPATH, "//paper-tab/div")))
-
-    #     elements = driver.find_elements_by_xpath("//paper-tab/div")
-    #     for el in elements:
-    #         if "Videos" in el.get_attribute("innerHTML"):
-    #             el.click()
-    #             break
-
-    #     # Wait for videos to load
-    #     WebDriverWait(driver, 10).until( EC.presence_of_element_located((By.TAG_NAME, "ytd-channel-sub-menu-renderer")))
-    #     time.sleep(1)
-    #     # Get all the uploaded videos. Iterate through them until we find the previous most recent vide
-    #     newVideos = []
-    #     elements = driver.find_elements_by_xpath("//ytd-grid-video-renderer/div")
-    #     for el in elements:
-    #         try:
-    #             anchors = el.find_elements_by_tag_name("a")
-    #         except:
-    #             self.logger.error(el)
-
-    #         if len(anchors) == 0: continue
-
-    #         videoId = anchors[0].get_attribute("href").split("=")[-1]
-    #         # print("https://www.youtube.com/watch?v=" + videoId)
-    #         if recentVideo == videoId:
-    #             return newVideos
-            
-    #         newVideos.append(videoId)
-    #     return newVideos
     
     def getMostRecentVideo(self, driver, channelInfo):
         mostRecent = {}
