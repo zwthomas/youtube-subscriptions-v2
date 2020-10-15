@@ -1,5 +1,5 @@
 # youtube-subscriptions-v2
-
+## Abandoned for RSS Feeds
 
 ```
 docker build --no-cache --tag yt:1.0 .
