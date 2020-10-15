@@ -24,6 +24,7 @@ class Youtube:
 
     dpPath = "./youtube.db"
     configPath = "./youtube.ini"
+    channelUrl = "https://www.youtube.com/channel/"
 
     def __init__(self):
         # self.config = configparser.ConfigParser()
@@ -58,8 +59,8 @@ class Youtube:
 
     
     def getChannelAndMostRecent(self):
-        response = self.youtubeDB.find({},{"_id":0, "channelName":1, "mostRecentId":1})
-        data = {channel["channelName"]:channel["mostRecentId"] for channel in response}
+        response = self.youtubeDB.find({},{"_id":0, "channelId":1, "mostRecentId":1})
+        data = {channel["channelId"]:channel["mostRecentId"] for channel in response}
         print(data)
         input()
         # subInfo = {sub[0]: sub[1] for sub in c.fetchall()}

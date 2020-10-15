@@ -67,10 +67,12 @@ class YoutubeSetup():
         driver  = webdriver.Chrome(options=chrome_options)
         driver.get(self.URL.format(self.channel))
         self.getChannels(driver)
+
+        driver.close()
     
-    def insertIntoDB(self, channelInfo, mostRecent):
+    def insertIntoDB(self, channelInfo, mostRecent, channelIds):
         for channel in channelInfo.keys():
-            self.youtubeDB.insert_one({"channelSlug": channelInfo[channel],"channelName": channel, "category":"","mostRecentId":mostRecent[channel]})
+            self.youtubeDB.insert_one({"channelId": channelIds[channel],"channelName": channel, "category":"","mostRecentId":mostRecent[channel]})
 
     
     def getChannels(self, driver):
@@ -79,8 +81,9 @@ class YoutubeSetup():
         WebDriverWait(driver, 10).until( EC.presence_of_element_located((By.ID, "channel")))
         self.loadAllSubs(driver)
         channelInfo = self.getChannelLinks(driver)
-        mostRecent = self.getMostRecentVideo(driver, channelInfo)
-        self.insertIntoDB(channelInfo, mostRecent)
+        mostRecent, channelIds = self.getMostRecentVideo(driver, channelInfo)
+
+        self.insertIntoDB(channelInfo, mostRecent, channelIds)
 
     def loadAllSubs(self, driver):
         self.logger.info("Loading All Subs")
@@ -105,8 +108,14 @@ class YoutubeSetup():
     
     def getMostRecentVideo(self, driver, channelInfo):
         mostRecent = {}
+        channelIds = {}
         for channel in channelInfo:
             driver.get(self.SUB_URL + channelInfo[channel])
+
+            WebDriverWait(driver, 30).until( EC.presence_of_element_located((By.XPATH, "//link[@rel=\'canonical\']")))
+            channelId = driver.find_element(By.XPATH, "//link[@rel=\'canonical\']").get_attribute("href")
+            
+            
             # Nav to video tab
             WebDriverWait(driver, 10).until( EC.presence_of_element_located((By.XPATH, "//paper-tab/div")))
 
@@ -131,7 +140,8 @@ class YoutubeSetup():
 
             videoId = anchors[0].get_attribute("href").split("=")[-1]
             mostRecent[channel] = videoId
-        return mostRecent
+            channelIds[channel] = channelId.split("/")[-1]
+        return mostRecent, channelIds
             
 
 if __name__ == "__main__":
