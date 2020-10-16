@@ -16,6 +16,7 @@ import configparser
 import hvac
 import logging
 import pymongo
+import feedparser
 
 
 class Youtube:
@@ -25,6 +26,7 @@ class Youtube:
     dpPath = "./youtube.db"
     configPath = "./youtube.ini"
     channelUrl = "https://www.youtube.com/channel/"
+    rssUrl = "https://www.youtube.com/feeds/videos.xml?channel_id="
 
     def __init__(self):
         # self.config = configparser.ConfigParser()
@@ -35,14 +37,14 @@ class Youtube:
 
         self.logger.info("Application Starting")
 
-        vaultClient = hvac.Client(
+        self.vaultClient = hvac.Client(
             url="http://192.168.73.20:8200",
             token="s.tLWbbS9mBlEcDedkystiYG8P"
         )
 
-        self.channel = vaultClient.secrets.kv.read_secret_version(path="youtube")["data"]["data"]["channel"]
-        username = vaultClient.secrets.kv.read_secret_version(path="youtube")["data"]["data"]["db-username"]
-        password = vaultClient.secrets.kv.read_secret_version(path="youtube")["data"]["data"]["db-password"]
+        self.channel = self.vaultClient.secrets.kv.read_secret_version(path="youtube")["data"]["data"]["channel"]
+        username = self.vaultClient.secrets.kv.read_secret_version(path="youtube")["data"]["data"]["db-username"]
+        password = self.vaultClient.secrets.kv.read_secret_version(path="youtube")["data"]["data"]["db-password"]
 
         client = pymongo.MongoClient(
             "mongodb://192.168.73.20:27017",
@@ -55,20 +57,23 @@ class Youtube:
         response = self.youtubeDB.find({}, {"_id":0, "category":1})
 
         category = {cat["category"] for cat in response if len(cat["category"]) > 1}
-        self.links = { cat:vaultClient.secrets.kv.read_secret_version(path="youtube")["data"]["data"][cat] for cat in category}
+        self.links = { cat:self.vaultClient.secrets.kv.read_secret_version(path="youtube")["data"]["data"][cat] for cat in category}
 
     
     def getChannelAndMostRecent(self):
         response = self.youtubeDB.find({},{"_id":0, "channelId":1, "mostRecentId":1})
         data = {channel["channelId"]:channel["mostRecentId"] for channel in response}
-        print(data)
-        input()
-        # subInfo = {sub[0]: sub[1] for sub in c.fetchall()}
+        return data
 
-        # conn.commit()
-        # conn.close()
-
-        # return subInfo
+    def getNewVideosForSubWithRSS(self, channelId, recentVideo):
+        newsFeed = feedparser.parse(self.rssUrl + channelId)
+        newVideos = []
+        for vidNdx in range(len(newsFeed.entries)):
+            videoId = newsFeed.entries[vidNdx].yt_videoid
+            if videoId == recentVideo:
+                return newVideos
+            newVideos.append(videoId)
+        return newVideos
 
     def getNewVideosForSub(self, driver, channelId, recentVideo):
 
@@ -109,15 +114,14 @@ class Youtube:
 
     def postInDiscord(self, newVideos, channelId):
         self.logger.info("Posting videos")
-        self.updateMostRecent(newVideos[0], channelId)
+        # self.updateMostRecent(newVideos[0], channelId)
 
-        conn = sqlite3.connect("./youtube.db")
-        c = conn.cursor()
+        response = self.youtubeDB.find({"channelId": channelId},{"_id":0, "category":1})
+        category = response[0]["category"]
 
-        c.execute("SELECT category FROM subs WHERE channelId=?", (channelId,))
-        category = c.fetchone()
-        if len(category[0]) == 0: return
-        url = self.links[category[0]]
+        if len(category) == 0: return
+        url = self.links[category]
+        print(url)
 
         for video in newVideos[::-1]:
             data = {}
@@ -128,9 +132,6 @@ class Youtube:
                                 "Content-Type": "application/json"})
                             
             time.sleep(2)
-        
-        conn.commit()
-        conn.close()
 
     def updateMostRecent(self, newVideo, channelId): 
         conn = sqlite3.connect("./youtube.db")
@@ -144,26 +145,14 @@ class Youtube:
     def run(self):
         while True:
             self.logger.info("Starting: " + str(datetime.now()))
-            # options = Options()
-            # options.headless = True
-            chrome_options = Options()
-            chrome_options.add_argument("--headless")
-            chrome_options.add_argument("--no-sandbox")
-            chrome_options.add_argument("--disable-dev-shm-usage")
-            chrome_options.add_argument("window-size=1920,1080")
-            chrome_prefs = {}
-            chrome_options.experimental_options["prefs"] = chrome_prefs
-            chrome_prefs["profile.default_content_settings"] = {"images": 2} 
-
-            driver  = webdriver.Chrome(options=chrome_options)
+            
             subInfo = self.getChannelAndMostRecent()
             for subId in subInfo:
                 self.logger.info("Finding new videos for: " + subId)
-                newVideos = self.getNewVideosForSub(driver, subId, subInfo[subId])
+                newVideos = self.getNewVideosForSubWithRSS(subId, subInfo[subId])
                 if len(newVideos) > 0:
                     self.postInDiscord(newVideos, subId)
-            driver.close() 
-            driver.quit()
+            
             self.logger.info("Sleeping: " + str(datetime.now()))
             time.sleep(7200)
 
