@@ -114,7 +114,7 @@ class Youtube:
 
     def postInDiscord(self, newVideos, channelId):
         self.logger.info("Posting videos")
-        # self.updateMostRecent(newVideos[0], channelId)
+        self.updateMostRecent(newVideos[0], channelId)
 
         response = self.youtubeDB.find({"channelId": channelId},{"_id":0, "category":1})
         category = response[0]["category"]
@@ -134,13 +134,9 @@ class Youtube:
             time.sleep(2)
 
     def updateMostRecent(self, newVideo, channelId): 
-        conn = sqlite3.connect("./youtube.db")
-        c = conn.cursor()
 
-        c.execute("UPDATE subs SET mostRecentId=? WHERE channelId=?", (newVideo, channelId))
-
-        conn.commit()
-        conn.close()
+        response = self.youtubeDB.update_one({"channelId": channelId},{ "$set": { "mostRecentId": newVideo } })
+        
 
     def run(self):
         while True:
