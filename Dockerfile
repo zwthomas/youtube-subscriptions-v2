@@ -1,6 +1,6 @@
 FROM python:3
 
-# WORKDIR /usr/src/app
+WORKDIR /usr/src/app
 # COPY ./* /usr/src/app/
 
 # RUN wget https://github.com/mozilla/geckodriver/releases/download/v0.27.0/geckodriver-v0.27.0-linux64.tar.gz
@@ -22,7 +22,7 @@ FROM python:3
 #  rm chromedriver_linux64.zip && \
 #  mv chromedriver /usr/bin
 
-RUN git clone https://github.com/zwthomas/youtube-subscriptions-v2.git ./
+RUN git clone https://github.com/zwthomas/youtube-subscriptions-v2.git /usr/src/app
 
 RUN pip install --upgrade pip
 RUN pip install -r requirements.txt
