@@ -150,7 +150,7 @@ class Youtube:
                     self.postInDiscord(newVideos, subId)
             
             self.logger.info("Sleeping: " + str(datetime.now()))
-            time.sleep(7200)
+            time.sleep(1800)
 
 if __name__ == "__main__":
     yt = Youtube()
