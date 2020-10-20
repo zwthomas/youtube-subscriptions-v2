@@ -1,3 +1,4 @@
 requests
 hvac
 pymongo
+feedparser
