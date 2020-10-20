@@ -1,7 +1,7 @@
 FROM python:3
 
-WORKDIR /usr/src/app
-COPY ./* /usr/src/app/
+# WORKDIR /usr/src/app
+# COPY ./* /usr/src/app/
 
 # RUN wget https://github.com/mozilla/geckodriver/releases/download/v0.27.0/geckodriver-v0.27.0-linux64.tar.gz
 # RUN tar -xzf geckodriver-v0.27.0-linux64.tar.gz
