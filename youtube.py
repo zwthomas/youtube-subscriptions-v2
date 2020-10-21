@@ -1,10 +1,10 @@
-from bs4 import BeautifulSoup
+# from bs4 import BeautifulSoup
 
-from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.chrome.options import Options
+# from selenium import webdriver
+# from selenium.webdriver.common.by import By
+# from selenium.webdriver.support.ui import WebDriverWait
+# from selenium.webdriver.support import expected_conditions as EC
+# from selenium.webdriver.chrome.options import Options
 
 from datetime import datetime
 
@@ -114,7 +114,7 @@ class Youtube:
 
     def postInDiscord(self, newVideos, channelId):
         self.logger.info("Posting videos")
-        # self.updateMostRecent(newVideos[0], channelId)
+        self.updateMostRecent(newVideos[0], channelId)
 
         response = self.youtubeDB.find({"channelId": channelId},{"_id":0, "category":1})
         category = response[0]["category"]
@@ -134,13 +134,9 @@ class Youtube:
             time.sleep(2)
 
     def updateMostRecent(self, newVideo, channelId): 
-        conn = sqlite3.connect("./youtube.db")
-        c = conn.cursor()
 
-        c.execute("UPDATE subs SET mostRecentId=? WHERE channelId=?", (newVideo, channelId))
-
-        conn.commit()
-        conn.close()
+        response = self.youtubeDB.update_one({"channelId": channelId},{ "$set": { "mostRecentId": newVideo } })
+        
 
     def run(self):
         while True:
@@ -154,7 +150,7 @@ class Youtube:
                     self.postInDiscord(newVideos, subId)
             
             self.logger.info("Sleeping: " + str(datetime.now()))
-            time.sleep(7200)
+            time.sleep(1800)
 
 if __name__ == "__main__":
     yt = Youtube()
