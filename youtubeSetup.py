@@ -57,11 +57,11 @@ class YoutubeSetup():
         # chrome_options.add_argument("--headless")
         # chrome_options.add_argument("--no-sandbox")
         # chrome_options.add_argument("--disable-dev-shm-usage")
-        # chrome_options.add_argument("window-size=1920,1080")
+        chrome_options.add_argument("window-size=1920,1080")
         # chrome_prefs = {}
         # chrome_options.experimental_options["prefs"] = chrome_prefs
         # chrome_prefs["profile.default_content_settings"] = {"images": 2} 
-
+       
 
 
         driver  = webdriver.Chrome(options=chrome_options)
@@ -71,8 +71,11 @@ class YoutubeSetup():
         driver.close()
     
     def insertIntoDB(self, channelInfo, mostRecent, channelIds):
+        existingIds = [chan["channelId"] for chan in self.youtubeDB.find()]
         for channel in channelInfo.keys():
-            self.youtubeDB.insert_one({"channelId": channelIds[channel],"channelName": channel, "category":"","mostRecentId":mostRecent[channel]})
+            if channelIds[channel] not in existingIds:
+                print(channel)
+                self.youtubeDB.insert_one({"channelId": channelIds[channel],"channelName": channel, "category":"","mostRecentId":mostRecent[channel]})
 
     
     def getChannels(self, driver):
