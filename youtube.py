@@ -1,11 +1,3 @@
-# from bs4 import BeautifulSoup
-
-# from selenium import webdriver
-# from selenium.webdriver.common.by import By
-# from selenium.webdriver.support.ui import WebDriverWait
-# from selenium.webdriver.support import expected_conditions as EC
-# from selenium.webdriver.chrome.options import Options
-
 from datetime import datetime
 
 import requests
@@ -65,63 +57,25 @@ class Youtube:
         data = {channel["channelId"]:channel["mostRecentId"] for channel in response}
         return data
 
-    def getNewVideosForSubWithRSS(self, channelId, recentVideo):
+    def getNewVideosForSubWithRSS(self, channelId, recentVideos):
         newsFeed = feedparser.parse(self.rssUrl + channelId)
         newVideos = []
         for vidNdx in range(len(newsFeed.entries)):
             videoId = newsFeed.entries[vidNdx].yt_videoid
-            if videoId == recentVideo:
+            if videoId in recentVideos:
                 return newVideos
-            newVideos.append(videoId)
-        return newVideos
-
-    def getNewVideosForSub(self, driver, channelId, recentVideo):
-
-        channel = "https://www.youtube.com/channel/"
-        driver.get(channel + channelId)
-
-        # Nav to video tab
-        WebDriverWait(driver, 10).until( EC.presence_of_element_located((By.XPATH, "//paper-tab/div")))
-
-        elements = driver.find_elements_by_xpath("//paper-tab/div")
-        for el in elements:
-            if "Videos" in el.get_attribute("innerHTML"):
-                el.click()
-                break
-
-        # Wait for videos to load
-        WebDriverWait(driver, 10).until( EC.presence_of_element_located((By.TAG_NAME, "ytd-channel-sub-menu-renderer")))
-        time.sleep(1)
-        # Get all the uploaded videos. Iterate through them until we find the previous most recent vide
-        newVideos = []
-        elements = driver.find_elements_by_xpath("//ytd-grid-video-renderer/div")
-        for el in elements:
-            try:
-                anchors = el.find_elements_by_tag_name("a")
-            except:
-                self.logger.error(el)
-
-            if len(anchors) == 0: continue
-
-            videoId = anchors[0].get_attribute("href").split("=")[-1]
-            # print("https://www.youtube.com/watch?v=" + videoId)
-            if recentVideo == videoId:
-                return newVideos
-            
             newVideos.append(videoId)
         return newVideos
            
 
     def postInDiscord(self, newVideos, channelId):
         self.logger.info("Posting videos")
-        self.updateMostRecent(newVideos[0], channelId)
-
+        
         response = self.youtubeDB.find({"channelId": channelId},{"_id":0, "category":1})
         category = response[0]["category"]
 
         if len(category) == 0: return
         url = self.links[category]
-        print(url)
 
         for video in newVideos[::-1]:
             data = {}
@@ -136,6 +90,16 @@ class Youtube:
     def updateMostRecent(self, newVideo, channelId): 
 
         response = self.youtubeDB.update_one({"channelId": channelId},{ "$set": { "mostRecentId": newVideo } })
+
+    def getMostRecentTen(self, channelId):
+        newsFeed = feedparser.parse(self.rssUrl + channelId)
+        videoIds = []
+        for vidNdx in range(len(newsFeed.entries)):
+            videoId = newsFeed.entries[vidNdx].yt_videoid
+            if len(videoIds) == 10:
+                return videoIds
+            videoIds.append(videoId)
+        return videoIds
         
 
     def run(self):
@@ -147,6 +111,7 @@ class Youtube:
                 self.logger.info("Finding new videos for: " + subId)
                 newVideos = self.getNewVideosForSubWithRSS(subId, subInfo[subId])
                 if len(newVideos) > 0:
+                    self.updateMostRecent(self.getMostRecentTen(subId), subId)
                     self.postInDiscord(newVideos, subId)
             
             self.logger.info("Sleeping: " + str(datetime.now()))
