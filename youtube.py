@@ -9,6 +9,7 @@ import hvac
 import logging
 import pymongo
 import feedparser
+import psycopg2
 
 
 class Youtube:
@@ -37,6 +38,14 @@ class Youtube:
     self.channel = self.vaultClient.secrets.kv.read_secret_version(path="youtube")["data"]["data"]["channel"]
     username = self.vaultClient.secrets.kv.read_secret_version(path="youtube")["data"]["data"]["db-username"]
     password = self.vaultClient.secrets.kv.read_secret_version(path="youtube")["data"]["data"]["db-password"]
+
+    postgresUsername = self.vaultClient.secrets.kv.read_secret_version(path="youtube")["data"]["data"]["postgres-username"]
+    postgresPassword = self.vaultClient.secrets.kv.read_secret_version(path="youtube")["data"]["data"]["postgres-password"]
+    self.postgresConnection = conn = psycopg2.connect(
+        host="192.168.73.20",
+        database="youtube",
+        user=postgresUsername,
+        password=postgresPassword)
 
     client = pymongo.MongoClient(
       "mongodb://192.168.73.20:27017",
@@ -91,6 +100,15 @@ class Youtube:
       time.sleep(2)
 
   def updateMostRecent(self, newVideo, channelId): 
+    
+    cur = self.postgresConnection.cursor()
+    # delete old videos
+    cur.execute("""DELETE FROM videos WHERE channelid = %(channelId)s""", {'channelId': channelId})
+    for video in newVideo:
+      cur.execute("""INSERT INTO videos (videoid, channelid, published, videoname) VALUES (%(videoId)s,%(channelId)s,%(published)s,%(videoName)s)""",
+        {'videoId': video[0],'channelId': channelId,'published': video[1],'videoName': video[2]})
+    cur.close()
+    self.postgresConnection.commit()
     response = self.youtubeDB.update_one({"channelId": channelId},{ "$set": { "mostRecentId": newVideo } })
 
   def getMostRecentTen(self, channelId):
@@ -116,8 +134,7 @@ class Youtube:
         newVideos = self.getNewVideosForSubWithRSS(subId, subInfo[subId])
         if len(newVideos) > 0:
           self.updateMostRecent(self.getMostRecentTen(subId), subId)
-          self.postInDiscord(newVideos, subId)
-      
+          self.postInDiscord(newVideos, subId) 
       self.logger.info("Sleeping: " + str(datetime.now()))
       time.sleep(1800)
 
