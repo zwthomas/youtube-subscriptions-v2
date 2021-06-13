@@ -2,3 +2,4 @@ requests
 hvac
 pymongo
 feedparser
+psycopg2
