@@ -62,14 +62,24 @@ class Youtube:
 
   
   def getChannelAndMostRecent(self):
-    response = self.youtubeDB.find({},{"_id":0, "channelId":1, "mostRecentId":1})
-    data = {channel["channelId"]:channel["mostRecentId"] for channel in response}
-    return data
+    cur = self.postgresConnection.cursor()
+    cur.execute("""SELECT channelid FROM channels""")
+    channelResponse = cur.fetchall()
+    mostRecentData = {}
+    for channel in channelResponse:
+      channelId = channel[0]
+      cur.execute("""SELECT  videoid FROM videos WHERE channelid=%(channelId)s""", {'channelId': channelId})
+      videosResponse = cur.fetchall()
+      videos = [video[0] for video in videosResponse]
+      mostRecentData[channelId] = videos      
+    cur.close()
+    return mostRecentData
+
 
   def getNewVideosForSubWithRSS(self, channelId, recentVideos):
     newsFeed = feedparser.parse(self.rssUrl + channelId)
     newVideos = []
-    recentVideosIds = [vid[0] for vid in recentVideos]
+    recentVideosIds = recentVideos
     for vidNdx in range(len(newsFeed.entries)):
       videoId = newsFeed.entries[vidNdx].yt_videoid
       published = newsFeed.entries[vidNdx].published
@@ -129,12 +139,13 @@ class Youtube:
       self.logger.info("Starting: " + str(datetime.now()))
       
       subInfo = self.getChannelAndMostRecent()
-      for subId in subInfo:
+      print(subInfo)
+      for subId in subInfo.keys():
         self.logger.info("Finding new videos for: " + subId)
         newVideos = self.getNewVideosForSubWithRSS(subId, subInfo[subId])
         if len(newVideos) > 0:
           self.updateMostRecent(self.getMostRecentTen(subId), subId)
-          self.postInDiscord(newVideos, subId) 
+          # self.postInDiscord(newVideos, subId) 
       self.logger.info("Sleeping: " + str(datetime.now()))
       time.sleep(1800)
 
